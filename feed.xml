@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<title>Daily Briefing</title>
+<link>https://magicapsss.github.io/daily-news/</link>
+<description>Briefing quotidien automatise : geopolitique, marches, tech, IA, macro.</description>
+<language>fr-fr</language>
+<itunes:author>Daily Briefing</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+<item>
+<title>Briefing du 23/07/2026</title>
+<description>Le conflit entre les Etats-Unis et l'Iran entre dans son douzieme jour et fait grimper le petrole au-dessus de cent dollars le baril pour la premiere fois depuis fin mai. La Banque centrale europeenne a de son cote choisi de marquer une pause sur ses taux, le temps de mesurer l'impact de cette crise sur l'inflation. Et a Washington comme a Londres, de nouveaux equilibres politiques se dessinent. On fait le point tout de suite.</description>
+<pubDate>Thu, 23 Jul 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-07-23.mp3" length="9192192" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-07-23</guid>
+</item>
+</channel>
+</rss>
