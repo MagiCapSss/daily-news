@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 23/08/2026</title>
+<description>Le bilan de la frappe russe sur le centre commercial de Kryvyi Rih continue de s'alourdir, pendant qu'une nouvelle nuit d'attaques a encore visé la frontière moldave. Côté marchés, le week-end a été mouvementé pour les cryptomonnaies avec un flash crash spectaculaire samedi, avant une semaine qui s'annonce déterminante entre résultats de Nvidia et premier grand discours du nouveau patron de la Fed à Jackson Hole. On revient sur tout ça, plus une découverte assez contre-intuitive sur le fonctionnement de l'Ozempic dans le cerveau.</description>
+<pubDate>Sun, 23 Aug 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-23.mp3" length="9747840" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-08-23</guid>
+</item>
+<item>
 <title>Briefing du 22/08/2026</title>
 <description>Une nuit encore une fois très violente en Ukraine, avec une frappe russe qui a visé un centre commercial dans la ville natale de Zelensky. Du côté des marchés, la crypto s'envole littéralement, le bitcoin vient de signer sa meilleure semaine depuis 2023, pendant que le CAC 40 met enfin fin à une série noire de huit séances de baisse. On revient sur tout ça, plus un joli fait scientifique pour finir en douceur.</description>
 <pubDate>Sat, 22 Aug 2026 06:00:00 +0200</pubDate>
@@ -216,13 +223,6 @@
 <pubDate>Fri, 24 Jul 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-07-24.mp3" length="9699264" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-07-24</guid>
-</item>
-<item>
-<title>Briefing du 23/07/2026</title>
-<description>Le conflit entre les Etats-Unis et l'Iran entre dans son douzieme jour et fait grimper le petrole au-dessus de cent dollars le baril pour la premiere fois depuis fin mai. La Banque centrale europeenne a de son cote choisi de marquer une pause sur ses taux, le temps de mesurer l'impact de cette crise sur l'inflation. Et a Washington comme a Londres, de nouveaux equilibres politiques se dessinent. On fait le point tout de suite.</description>
-<pubDate>Thu, 23 Jul 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-07-23.mp3" length="9192192" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-07-23</guid>
 </item>
 </channel>
 </rss>
