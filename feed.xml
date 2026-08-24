@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 24/08/2026</title>
+<description>Une semaine chargee s'ouvre entre Jackson Hole, l'escalade autour de l'Iran et une actualite IA toujours aussi dense. Wall Street a rebondi vendredi mais signe une deuxieme semaine de pertes d'affilee, plombee par un marche obligataire nerveux, pendant que le bitcoin s'envole de pres de 23% en une semaine. On fait aussi le point sur l'AI Act entre en application, la bataille juridique entre Apple et OpenAI, et le debat qui monte sur une possible bulle IA.</description>
+<pubDate>Mon, 24 Aug 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-24.mp3" length="8102400" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-08-24</guid>
+</item>
+<item>
 <title>Briefing du 23/08/2026</title>
 <description>Le bilan de la frappe russe sur le centre commercial de Kryvyi Rih continue de s'alourdir, pendant qu'une nouvelle nuit d'attaques a encore visé la frontière moldave. Côté marchés, le week-end a été mouvementé pour les cryptomonnaies avec un flash crash spectaculaire samedi, avant une semaine qui s'annonce déterminante entre résultats de Nvidia et premier grand discours du nouveau patron de la Fed à Jackson Hole. On revient sur tout ça, plus une découverte assez contre-intuitive sur le fonctionnement de l'Ozempic dans le cerveau.</description>
 <pubDate>Sun, 23 Aug 2026 06:00:00 +0200</pubDate>
@@ -216,13 +223,6 @@
 <pubDate>Sat, 25 Jul 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-07-25.mp3" length="9751104" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-07-25</guid>
-</item>
-<item>
-<title>Briefing du 24/07/2026</title>
-<description>Une nuit de plus de frappes entre les Etats-Unis et l'Iran, un petrole qui repasse au-dessus de cent dollars, et des marches americains secoues par les resultats d'Alphabet et de Tesla. Un incendie majeur en Gironde a par ailleurs force l'evacuation de toute la presqu'ile du Cap-Ferret ce matin. Au menu egalement, une bonne dose d'actualite de l'intelligence artificielle, entre regulation europeenne et emballement des depenses. On fait le point tout de suite.</description>
-<pubDate>Fri, 24 Jul 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-07-24.mp3" length="9699264" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-07-24</guid>
 </item>
 </channel>
 </rss>
