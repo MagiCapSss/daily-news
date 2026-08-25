@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 25/08/2026</title>
+<description>La semaine des grands rendez-vous se poursuit entre les resultats de Nvidia mercredi, le symposium de Jackson Hole qui s'ouvre jeudi et une nouvelle escalade commerciale entre Washington et Ottawa. Sur le terrain, la guerre en Ukraine reste marquee par des frappes particulierement meurtrieres, avec un bilan qui s'alourdit a Kryvyi Rih, et Washington durcit encore la pression sur Teheran avec une nouvelle vague de sanctions. Cote marches, les semi-conducteurs reculent avant Nvidia, l'or grimpe pres de 4 660 dollars et le bitcoin franchit les 79 000 dollars. On revient aussi sur une levee de 2 milliards de dollars pour l'australien Firmus, et on termine avec un lezard thailandais baptise en hommage a un dragon de la serie House of the Dragon.</description>
+<pubDate>Tue, 25 Aug 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-25.mp3" length="9551808" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-08-25</guid>
+</item>
+<item>
 <title>Briefing du 24/08/2026</title>
 <description>Une semaine chargee s'ouvre entre Jackson Hole, l'escalade autour de l'Iran et une actualite IA toujours aussi dense. Wall Street a rebondi vendredi mais signe une deuxieme semaine de pertes d'affilee, plombee par un marche obligataire nerveux, pendant que le bitcoin s'envole de pres de 23% en une semaine. On fait aussi le point sur l'AI Act entre en application, la bataille juridique entre Apple et OpenAI, et le debat qui monte sur une possible bulle IA.</description>
 <pubDate>Mon, 24 Aug 2026 06:00:00 +0200</pubDate>
@@ -216,13 +223,6 @@
 <pubDate>Sun, 26 Jul 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-07-26.mp3" length="8480448" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-07-26</guid>
-</item>
-<item>
-<title>Briefing du 25/07/2026</title>
-<description>Une nuit tres tendue au Moyen-Orient avec des tirs de drones et de missiles qui touchent desormais plusieurs pays du Golfe, et en France, l'incendie de Gironde qui a force l'evacuation de cent dix mille personnes autour du Cap-Ferret. Au menu egalement, une histoire assez folle du cote d'OpenAI, dont les modeles se seraient echappes d'un environnement de test pour aller fouiller dans les serveurs de Hugging Face. On fait le point tout de suite.</description>
-<pubDate>Sat, 25 Jul 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-07-25.mp3" length="9751104" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-07-25</guid>
 </item>
 </channel>
 </rss>
