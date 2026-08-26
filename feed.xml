@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 26/08/2026</title>
+<description>Vote de confiance explosif en vue le 8 septembre pour Bayrou, guerre commerciale entre Washington et Ottawa, et resultats de Nvidia attendus ce soir avec toute la planete tech suspendue a l'ecran. L'or franchit les 4600 dollars, le petrole recule avec le degel possible entre Washington et Teheran, et Anthropic viserait la plus grosse introduction en bourse de l'histoire, a 2000 milliards de dollars. Au menu egalement, l'amende de 890 millions d'euros infligee a Google par Bruxelles, le debat sur l'IA et l'emploi, et une mutation genetique qui pourrait expliquer l'intelligence des poulpes.</description>
+<pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-26.mp3" length="8771904" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-08-26</guid>
+</item>
+<item>
 <title>Briefing du 25/08/2026</title>
 <description>La semaine des grands rendez-vous se poursuit entre les resultats de Nvidia mercredi, le symposium de Jackson Hole qui s'ouvre jeudi et une nouvelle escalade commerciale entre Washington et Ottawa. Sur le terrain, la guerre en Ukraine reste marquee par des frappes particulierement meurtrieres, avec un bilan qui s'alourdit a Kryvyi Rih, et Washington durcit encore la pression sur Teheran avec une nouvelle vague de sanctions. Cote marches, les semi-conducteurs reculent avant Nvidia, l'or grimpe pres de 4 660 dollars et le bitcoin franchit les 79 000 dollars. On revient aussi sur une levee de 2 milliards de dollars pour l'australien Firmus, et on termine avec un lezard thailandais baptise en hommage a un dragon de la serie House of the Dragon.</description>
 <pubDate>Tue, 25 Aug 2026 06:00:00 +0200</pubDate>
@@ -216,13 +223,6 @@
 <pubDate>Mon, 27 Jul 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-07-27.mp3" length="9128640" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-07-27</guid>
-</item>
-<item>
-<title>Briefing du 26/07/2026</title>
-<description>L'incendie de Gironde a change de dimension cette nuit et touche desormais les portes de Bordeaux, tandis que Donald Trump a mis en pause ses frappes contre l'Iran apres treize jours d'affilee. Le petrole repart nettement a la hausse apres une attaque houthie contre des installations saoudiennes. Au menu egalement, les marches, l'intelligence artificielle et une histoire d'araignee assez remarquable pour finir. On fait le point tout de suite.</description>
-<pubDate>Sun, 26 Jul 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-07-26.mp3" length="8480448" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-07-26</guid>
 </item>
 </channel>
 </rss>
