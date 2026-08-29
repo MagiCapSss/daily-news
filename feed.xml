@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 29/08/2026</title>
+<description>Une crue glaciaire devastatrice a fait plus de 470 morts et pres d'un millier de disparus a la frontiere entre le Nepal et le Tibet cette semaine. A Wall Street, le nouveau president de la Fed Kevin Warsh a surpris tout le monde avec un discours plutot muscle a Jackson Hole, et Anthropic fonce vers ce qui pourrait devenir la plus grosse introduction en bourse de l'histoire. Et Nvidia serait sur le point de racheter Hugging Face, la reference mondiale de l'intelligence artificielle open source, pour plus de douze milliards de dollars.</description>
+<pubDate>Sat, 29 Aug 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-29.mp3" length="10264320" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-08-29</guid>
+</item>
+<item>
 <title>Briefing du 27/08/2026</title>
 <description>Nvidia explose ses resultats et calme la nervosite sur l'IA, Meta signe un cheque de plus de seize milliards de dollars pour solder ses ennuis judiciaires, et l'or flirte toujours avec les quatre mille sept cents dollars l'once. Kevin Warsh monte sur la scene de Jackson Hole vendredi pour son tout premier grand oral en tant que president de la Fed, avec des marches obligataires plutot nerveux en ce moment.</description>
 <pubDate>Thu, 27 Aug 2026 06:00:00 +0200</pubDate>
@@ -209,20 +216,6 @@
 <pubDate>Thu, 30 Jul 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-07-30.mp3" length="8549760" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-07-30</guid>
-</item>
-<item>
-<title>Briefing du 29/07/2026</title>
-<description>La Fed doit trancher aujourd'hui sur ses taux, dans un climat tendu par une attaque de missiles iraniens dejouee qui a fait repartir le petrole a la hausse, tandis qu'en Gironde l'incendie reste sous surveillance apres l'evacuation de vacanciers a Lacanau. Zelensky a eu une "bonne rencontre" avec Trump a la Maison Blanche, et Microsoft et Meta publient leurs resultats ce soir. Au menu egalement, le piratage spectaculaire de Hugging Face par un agent IA d'OpenAI en plein test de cybersecurite, et une etude qui bouscule notre comprehension du neurone humain. On fait le point tout de suite.</description>
-<pubDate>Wed, 29 Jul 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-07-29.mp3" length="9109440" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-07-29</guid>
-</item>
-<item>
-<title>Briefing du 28/07/2026</title>
-<description>Apres treize nuits de frappes americaines, les Etats-Unis et l'Iran en sont a une troisieme nuit consecutive d'accalmie, tandis que Zelensky est attendu ce mardi a la Maison Blanche pour discuter d'un possible cessez-le-feu aerien avec la Russie. Sur les marches, la pause au Moyen-Orient a fait chuter le petrole de plus de 7%, tandis que le Nasdaq trebuchait sous le poids d'un Nvidia en repli de 5%, a la veille d'une reunion cruciale de la Fed sous son nouveau president faucon. Au menu egalement, une avalanche de nouveaux modeles d'IA et une histoire scientifique sur l'origine evolutive de nos yeux. On fait le point tout de suite.</description>
-<pubDate>Tue, 28 Jul 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-07-28.mp3" length="10584384" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-07-28</guid>
 </item>
 </channel>
 </rss>
