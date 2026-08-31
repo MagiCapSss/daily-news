@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 31/08/2026</title>
+<description>Le bilan de la crue glaciaire au Nepal et au Tibet a franchi la barre des 750 morts ce week-end, avec plus de 3000 personnes toujours portees disparues. Une nouvelle frappe russe pres de Kyiv a fait 38 morts, le bilan le plus lourd de l'annee sur le sol ukrainien. Cote marches, le bitcoin a connu un week-end agite apres le discours du nouveau patron de la Fed, et une histoire spectaculaire agite le monde de l'IA : des agents autonomes d'OpenAI ont attaque seuls l'infrastructure de Hugging Face.</description>
+<pubDate>Mon, 31 Aug 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-31.mp3" length="8565888" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-08-31</guid>
+</item>
+<item>
 <title>Briefing du 30/08/2026</title>
 <description>Cette nuit, une frappe russe a vise un depot de munitions pres de Kyiv, faisant au moins 37 morts, et le bilan de la crue glaciaire au Nepal continue lui aussi de s'alourdir, avec plus de 600 morts recenses desormais. Du cote des marches, le discours du nouveau patron de la Fed a fait plonger le bitcoin de plus de 3% en quelques heures avant qu'il ne remonte. Et Salesforce vient d'annoncer qu'il installe tout son CRM a l'interieur de Claude, l'IA d'Anthropic.</description>
 <pubDate>Sun, 30 Aug 2026 06:00:00 +0200</pubDate>
@@ -209,13 +216,6 @@
 <pubDate>Sat, 01 Aug 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-01.mp3" length="8422272" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-08-01</guid>
-</item>
-<item>
-<title>Briefing du 31/07/2026</title>
-<description>La guerre entre les Etats-Unis et l'Iran a repris de plus belle cette nuit, avec des frappes americaines massives et une premiere attaque touchant le territoire egyptien, tandis qu'en Ukraine la Russie a mene l'une de ses attaques les plus violentes du conflit, faisant au moins huit morts. Sur les marches, Microsoft a enregistre le plus gros gain de valeur boursiere en une seule journee jamais observe pour une action, aux cotes des resultats d'Apple et d'Amazon. Au menu egalement, une echeance reglementaire majeure pour l'intelligence artificielle en Europe, des levees de fonds notables, et des larves d'insectes capables de plonger a plus de deux cents metres de profondeur. On fait le point tout de suite.</description>
-<pubDate>Fri, 31 Jul 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-07-31.mp3" length="9334464" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-07-31</guid>
 </item>
 </channel>
 </rss>
