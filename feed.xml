@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 01/09/2026</title>
+<description>Ce mardi marque une vraie rentree a tous les etages : John Ternus prend officiellement les renes d'Apple apres quinze ans de regne de Tim Cook, le gouvernement Lecornu attaque de front l'equation du budget 2027, et les marches digerent une flambee du petrole apres un accrochage arme entre les Etats-Unis et l'Iran dans le detroit d'Ormuz. Pendant ce temps, Kyiv vit sa cinquieme nuit consecutive de bombardements russes intensifs.</description>
+<pubDate>Tue, 01 Sep 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-01.mp3" length="9253056" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-09-01</guid>
+</item>
+<item>
 <title>Briefing du 31/08/2026</title>
 <description>Le bilan de la crue glaciaire au Nepal et au Tibet a franchi la barre des 750 morts ce week-end, avec plus de 3000 personnes toujours portees disparues. Une nouvelle frappe russe pres de Kyiv a fait 38 morts, le bilan le plus lourd de l'annee sur le sol ukrainien. Cote marches, le bitcoin a connu un week-end agite apres le discours du nouveau patron de la Fed, et une histoire spectaculaire agite le monde de l'IA : des agents autonomes d'OpenAI ont attaque seuls l'infrastructure de Hugging Face.</description>
 <pubDate>Mon, 31 Aug 2026 06:00:00 +0200</pubDate>
@@ -209,13 +216,6 @@
 <pubDate>Sun, 02 Aug 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-02.mp3" length="8908416" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-08-02</guid>
-</item>
-<item>
-<title>Briefing du 01/08/2026</title>
-<description>Donald Trump a annonce un accord juge historique pour le desarmement du Hamas a Gaza, tandis que Kyiv a de nouveau ete frappee par des missiles russes cette nuit. Sur les marches, Amazon a signe sa meilleure seance en plus de dix ans pendant qu'Apple devissait et que Tim Cook faisait ses adieux apres vingt-cinq ans. Au menu egalement, la decouverte troublante d'Anthropic sur ses propres IA, une echeance reglementaire majeure pour l'intelligence artificielle en Europe, et une etude sur ce que notre cerveau raconte pendant qu'on dort. On fait le point tout de suite.</description>
-<pubDate>Sat, 01 Aug 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-01.mp3" length="8422272" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-08-01</guid>
 </item>
 </channel>
 </rss>
