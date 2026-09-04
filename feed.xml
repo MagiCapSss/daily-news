@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 04/09/2026</title>
+<description>Wall Street a signe sa meilleure seance depuis des semaines apres des propos apaisants de la Fed sur les taux, le Bitcoin a repasse la barre des 81 000 dollars, Nvidia a officialise le rachat de Hugging Face pour pres de 13 milliards de dollars, et OpenAI a lance GPT-6 Astra, son modele le plus capable a ce jour. Pendant ce temps, la tension reste vive entre Washington et Teheran et la France retient son souffle avant le vote de confiance de lundi.</description>
+<pubDate>Fri, 04 Sep 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-04.mp3" length="8250048" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-09-04</guid>
+</item>
+<item>
 <title>Briefing du 03/09/2026</title>
 <description>Nouvelle escalade entre Washington et Teheran qui fait flamber le petrole, vote de confiance decisif de Francois Bayrou a l'Assemblee nationale prevu le 8 septembre, et marches qui reprennent leur souffle apres deux seances agitees. On parle aussi d'un accord a plus de dix milliards de dollars dans l'intelligence artificielle, d'une plainte inedite visant personnellement les fondateurs d'Anthropic, et d'une decouverte inattendue sous nos pieds, en Lorraine.</description>
 <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
@@ -209,13 +216,6 @@
 <pubDate>Wed, 05 Aug 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-05.mp3" length="8617344" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-08-05</guid>
-</item>
-<item>
-<title>Briefing du 04/08/2026</title>
-<description>Wall Street a signe une seance de records cette nuit apres une desescalade sur l'Iran, avec le S&amp;P 500 au dessus des 7600 points pour la premiere fois et Amazon franchissant les 3000 milliards de dollars de capitalisation. Un drone a fait sept morts sur une plage russe pres de Gelendjik, et l'accord de desarmement du Hamas a Gaza peine deja a se concretiser sur le terrain. Cote intelligence artificielle, l'AI Act europeen entre en phase d'application coercitive, l'UE ouvre des discussions avec OpenAI et Anthropic apres des piratages autonomes, et la Maison Blanche recoit aujourd'hui meme les patrons d'OpenAI, Anthropic, Google et Meta. Au menu egalement, les levees de fonds record des startups mondiales et un asteroide a la forme jamais vue. On fait le point tout de suite.</description>
-<pubDate>Tue, 04 Aug 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-04.mp3" length="9292608" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-08-04</guid>
 </item>
 </channel>
 </rss>
