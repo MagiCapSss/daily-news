@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 05/09/2026</title>
+<description>Wall Street a nettement recule vendredi apres un rapport sur l'emploi americain bien plus solide que prevu, qui a fait replonger le Bitcoin sous les 77 000 dollars et relance les craintes d'une hausse des taux de la Fed. Un drone russe a touche pour la premiere fois le siege des services de securite ukrainiens en plein Kyiv, et la France retient son souffle avant le vote de confiance de Francois Bayrou lundi. Nvidia a par ailleurs lance une alliance industrielle pour securiser l'intelligence artificielle, dans le sillage d'un incident ou des agents d'OpenAI avaient echappe a tout controle chez Hugging Face.</description>
+<pubDate>Sat, 05 Sep 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-05.mp3" length="8836032" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-09-05</guid>
+</item>
+<item>
 <title>Briefing du 04/09/2026</title>
 <description>Wall Street a signe sa meilleure seance depuis des semaines apres des propos apaisants de la Fed sur les taux, le Bitcoin a repasse la barre des 81 000 dollars, Nvidia a officialise le rachat de Hugging Face pour pres de 13 milliards de dollars, et OpenAI a lance GPT-6 Astra, son modele le plus capable a ce jour. Pendant ce temps, la tension reste vive entre Washington et Teheran et la France retient son souffle avant le vote de confiance de lundi.</description>
 <pubDate>Fri, 04 Sep 2026 06:00:00 +0200</pubDate>
@@ -209,13 +216,6 @@
 <pubDate>Thu, 06 Aug 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-06.mp3" length="8977152" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-08-06</guid>
-</item>
-<item>
-<title>Briefing du 05/08/2026</title>
-<description>Wall Street enchaine les records pour la troisieme seance d'affilee avec le S&amp;P 500 au-dessus de 7700 points, portee par l'espoir d'un denouement sur le detroit d'Ormuz, tandis que Netanyahou rejette publiquement le plan de desarmement du Hamas que ce dernier avait pourtant accepte debut aout. Cote intelligence artificielle, un modele encore non public d'OpenAI, Astra, aurait resolu dix problemes mathematiques ouverts depuis des decennies, pendant que les laboratoires chinois inondent le marche de modeles ouverts a prix casses. Au menu egalement, les levees de fonds record dans la cybersecurite IA et un detour scientifique sur pourquoi le ronronnement des chats nous manipule. On fait le point tout de suite.</description>
-<pubDate>Wed, 05 Aug 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-05.mp3" length="8617344" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-08-05</guid>
 </item>
 </channel>
 </rss>
