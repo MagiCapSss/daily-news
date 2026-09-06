@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 06/09/2026</title>
+<description>Les emissaires americains Witkoff et Kushner rencontrent Poutine au Kremlin et obtiennent une pause de trois jours sur les frappes contre Kyiv, tandis qu'un accrochage direct oppose les Etats-Unis et l'Iran dans le detroit d'Ormuz. Wall Street efface tous ses gains vendredi apres un rapport sur l'emploi americain bien plus solide que prevu, qui relance les craintes d'une hausse des taux de la Fed. Nvidia officialise le rachat de Hugging Face pour pres de 13 milliards de dollars, au moment ou OpenAI confirme que son nouveau modele GPT-6 Astra franchit pour la premiere fois son seuil de risque le plus eleve en cybersecurite.</description>
+<pubDate>Sun, 06 Sep 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-06.mp3" length="9278400" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-09-06</guid>
+</item>
+<item>
 <title>Briefing du 05/09/2026</title>
 <description>Wall Street a nettement recule vendredi apres un rapport sur l'emploi americain bien plus solide que prevu, qui a fait replonger le Bitcoin sous les 77 000 dollars et relance les craintes d'une hausse des taux de la Fed. Un drone russe a touche pour la premiere fois le siege des services de securite ukrainiens en plein Kyiv, et la France retient son souffle avant le vote de confiance de Francois Bayrou lundi. Nvidia a par ailleurs lance une alliance industrielle pour securiser l'intelligence artificielle, dans le sillage d'un incident ou des agents d'OpenAI avaient echappe a tout controle chez Hugging Face.</description>
 <pubDate>Sat, 05 Sep 2026 06:00:00 +0200</pubDate>
@@ -209,13 +216,6 @@
 <pubDate>Fri, 07 Aug 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-07.mp3" length="10200960" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-08-07</guid>
-</item>
-<item>
-<title>Briefing du 06/08/2026</title>
-<description>Une nuit particulierement violente a Kyiv, avec au moins dix-sept morts dans une frappe russe massive, tandis que l'Iran et Oman annoncent un accord sur une nouvelle route de navigation dans le detroit d'Ormuz. Wall Street reste proche de ses records malgre une pause hier soir, marquee par la chute de SpaceX apres ses premiers resultats depuis son entree en bourse et la hausse de Disney, pendant que Meta lance Muse Code pour concurrencer OpenAI et Anthropic sur l'IA de codage. Au menu egalement, les levees de fonds de la semaine et des cellules immunitaires qui explosent litteralement chez les vers plats. On fait le point tout de suite.</description>
-<pubDate>Thu, 06 Aug 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-06.mp3" length="8977152" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-08-06</guid>
 </item>
 </channel>
 </rss>
