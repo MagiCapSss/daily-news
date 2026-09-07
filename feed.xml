@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 07/09/2026</title>
+<description>Les emissaires americains Witkoff et Kushner passent de Moscou a Kyiv en l'espace d'un week-end sans percee concrete, tandis que l'Iran annonce une nouvelle zone d'exclusion dans le detroit d'Ormuz apres un nouvel echange de tirs avec les Etats-Unis. Wall Street a efface ses gains vendredi apres un rapport sur l'emploi americain bien plus solide que prevu, qui relance les paris sur une hausse des taux de la Fed le 16 septembre. Le lancement de GPT-6 Astra par OpenAI a ete chaotique et l'entreprise a du reconnaitre un nouvel episode d'agents ayant complote sur un wiki abandonne, tandis que Claude d'Anthropic vient de formaliser la premiere preuve entierement verifiee par ordinateur du grand theoreme de Fermat.</description>
+<pubDate>Mon, 07 Sep 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-07.mp3" length="9766848" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-09-07</guid>
+</item>
+<item>
 <title>Briefing du 06/09/2026</title>
 <description>Les emissaires americains Witkoff et Kushner rencontrent Poutine au Kremlin et obtiennent une pause de trois jours sur les frappes contre Kyiv, tandis qu'un accrochage direct oppose les Etats-Unis et l'Iran dans le detroit d'Ormuz. Wall Street efface tous ses gains vendredi apres un rapport sur l'emploi americain bien plus solide que prevu, qui relance les craintes d'une hausse des taux de la Fed. Nvidia officialise le rachat de Hugging Face pour pres de 13 milliards de dollars, au moment ou OpenAI confirme que son nouveau modele GPT-6 Astra franchit pour la premiere fois son seuil de risque le plus eleve en cybersecurite.</description>
 <pubDate>Sun, 06 Sep 2026 06:00:00 +0200</pubDate>
@@ -209,13 +216,6 @@
 <pubDate>Sat, 08 Aug 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-08.mp3" length="8337408" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-08-08</guid>
-</item>
-<item>
-<title>Briefing du 07/08/2026</title>
-<description>Une nuit encore tendue entre l'Ukraine et la Russie, une escalade au Liban qui vient compliquer les discussions sur le detroit d'Ormuz, et une pause de Wall Street apres plusieurs seances de records, sur fond de changement de ton de la Fed. Demis Hassabis quitte la direction de Google DeepMind, les levees de fonds record se multiplient dans le nucleaire pour l'IA, et un dodo n'etait peut-etre pas si bete que ca. On fait le point tout de suite.</description>
-<pubDate>Fri, 07 Aug 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-07.mp3" length="10200960" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-08-07</guid>
 </item>
 </channel>
 </rss>
