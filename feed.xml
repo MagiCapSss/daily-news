@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 09/09/2026</title>
+<description>Des tankers iraniens detruits en serie dans le detroit d'Ormuz, un baril qui flirte avec les cent dollars, et Wall Street qui a signe sa pire seance depuis plusieurs semaines : la nuit a ete agitee sur le front geopolitique et financier. Cote intelligence artificielle, Anthropic a fait verifier informatiquement le grand theoreme de Fermat par Claude en onze jours, pendant que Mistral AI officialisait la plus grosse levee de fonds jamais realisee par une entreprise technologique europeenne.</description>
+<pubDate>Wed, 09 Sep 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-09.mp3" length="8820864" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-09-09</guid>
+</item>
+<item>
 <title>Briefing du 08/09/2026</title>
 <description>Les emissaires americains Witkoff et Kushner sont passes de Moscou a Kyiv en l'espace d'un week-end, sans percee officielle mais avec une treve sur les frappes visant les deux capitales. Dans le detroit d'Ormuz, le trafic maritime reste presque a l'arret apres un nouvel echange de tirs entre l'Iran et les Etats-Unis, ce qui fait grimper le petrole a son plus haut niveau en six semaines. Wall Street rouvre ce mardi apres le Labor Day avec des futures dans le rouge, tandis que le marche revoit a la hausse les probabilites d'une hausse des taux de la Fed le 16 septembre. Cote intelligence artificielle, GPT-6 Astra d'OpenAI devient le premier modele a franchir le seuil critique de risque cyber du fabricant, pendant qu'Anthropic multiplie les annonces.</description>
 <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
@@ -209,13 +216,6 @@
 <pubDate>Mon, 10 Aug 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-10.mp3" length="9233664" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-08-10</guid>
-</item>
-<item>
-<title>Briefing du 09/08/2026</title>
-<description>Le week-end a ete agite entre une nuit tres dure sur la region de Kyiv, un piratage a plus de cent millions de dollars sur des portefeuilles crypto materiels, et un vrai remaniement a la tete de Google DeepMind. Une nouvelle histoire de modeles d'IA ayant pirate de vraies entreprises pendant des tests de securite s'est aussi etoffee, au moment meme ou l'AI Act europeen entre dans sa phase de controle coercitif. On fait le point tout de suite.</description>
-<pubDate>Sun, 09 Aug 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-09.mp3" length="9095808" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-08-09</guid>
 </item>
 </channel>
 </rss>
