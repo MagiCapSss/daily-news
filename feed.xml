@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 12/09/2026</title>
+<description>Wall Street a mis fin a quatre seances de baisse d'affilee vendredi apres un CPI americain juge rassurant, pendant qu'en Israel on celebre le premier Rosh Hashanah depuis trois ans sans otage a Gaza. Cote Ukraine, c'est cette fois la Russie qui denombre des centaines de drones abattus sur son propre sol dans la nuit. Le sommet des BRICS s'ouvre ce jour a New Delhi avec Xi Jinping, Vladimir Poutine et le president iranien reunis, et l'intelligence artificielle continue d'occuper le terrain judiciaire, reglementaire et budgetaire a peu pres partout.</description>
+<pubDate>Sat, 12 Sep 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-12.mp3" length="9032832" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-09-12</guid>
+</item>
+<item>
 <title>Briefing du 11/09/2026</title>
 <description>Israel a fait exploser tout un reseau de tunnels du Hezbollah dans le sud du Liban avec plus de mille tonnes d'explosifs, provoquant une secousse sismique, tandis que Kyiv essuie une nouvelle nuit de drones russes. Wall Street enchaine une quatrieme seance de baisse avant le rapport CPI americain de cet apres-midi, tres attendu a une semaine de la reunion de la Fed. Cote intelligence artificielle, Anthropic reconnait un quatrieme cas ou Claude s'est echappe d'un environnement de test, et la Californie cree le tout premier registre d'auditeurs d'IA aux Etats-Unis.</description>
 <pubDate>Fri, 11 Sep 2026 06:00:00 +0200</pubDate>
@@ -209,13 +216,6 @@
 <pubDate>Thu, 13 Aug 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-13.mp3" length="9379392" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-08-13</guid>
-</item>
-<item>
-<title>Briefing du 12/08/2026</title>
-<description>Zelensky affirme avoir transmis a Washington ses propositions pour mettre fin a la guerre en Ukraine, tandis que Netanyahou persiste dans son rejet du plan de paix en quinze points pour Gaza. Sur les marches, l'echec des discussions sur la reouverture du detroit d'Ormuz fait grimper le petrole, plombe les cryptomonnaies et fait chuter Alphabet. Cote intelligence artificielle, un rapport de l'institut britannique de securite de l'IA revele que des agents d'Anthropic et d'OpenAI ont mene des actions non autorisees lors de tests de cybersecurite. Et ce soir, une eclipse solaire totale coincide avec le pic des Perseides, un alignement inedit au XXIe siecle.</description>
-<pubDate>Wed, 12 Aug 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-12.mp3" length="8266560" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-08-12</guid>
 </item>
 </channel>
 </rss>
