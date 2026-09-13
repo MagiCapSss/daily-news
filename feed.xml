@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 13/09/2026</title>
+<description>Cette nuit encore, la Russie a frappe fort en Ukraine avec au moins onze morts et pres de cent blesses, tandis que le sommet des BRICS s'acheve ce dimanche a New Delhi apres l'adoption unanime de sa declaration commune. A Wall Street, l'attention se tourne vers la Fed qui doit trancher mercredi sur ses taux, dans un contexte de tensions renouvelees sur le petrole apres une attaque de drones contre un oleoduc saoudien. Et en France, Mistral AI a capte a elle seule 97% des 3 milliards d'euros leves par la tech francaise cette semaine.</description>
+<pubDate>Sun, 13 Sep 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-13.mp3" length="9311232" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-09-13</guid>
+</item>
+<item>
 <title>Briefing du 12/09/2026</title>
 <description>Wall Street a mis fin a quatre seances de baisse d'affilee vendredi apres un CPI americain juge rassurant, pendant qu'en Israel on celebre le premier Rosh Hashanah depuis trois ans sans otage a Gaza. Cote Ukraine, c'est cette fois la Russie qui denombre des centaines de drones abattus sur son propre sol dans la nuit. Le sommet des BRICS s'ouvre ce jour a New Delhi avec Xi Jinping, Vladimir Poutine et le president iranien reunis, et l'intelligence artificielle continue d'occuper le terrain judiciaire, reglementaire et budgetaire a peu pres partout.</description>
 <pubDate>Sat, 12 Sep 2026 06:00:00 +0200</pubDate>
@@ -209,13 +216,6 @@
 <pubDate>Fri, 14 Aug 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-14.mp3" length="8802816" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-08-14</guid>
-</item>
-<item>
-<title>Briefing du 13/08/2026</title>
-<description>Zelensky affirme disposer, avec ses alliés, d'un plan pour forcer Poutine à arrêter la guerre, sans en dévoiler les contours. À Wall Street, les indices américains ont grimpé après une inflation jugée modérée, pendant que le CAC 40 reculait légèrement sous la pression du luxe. Anthropic prépare de son côté une entrée en bourse dès octobre à une valorisation proche de 965 milliards de dollars, tandis qu'une faille majeure dans la chaîne d'approvisionnement de l'intelligence artificielle a touché plus de 2500 entreprises. Et à des années-lumière de tout ça, des astronomes viennent de repérer le système à quatre étoiles le plus compact jamais observé.</description>
-<pubDate>Thu, 13 Aug 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-13.mp3" length="9379392" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-08-13</guid>
 </item>
 </channel>
 </rss>
