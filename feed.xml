@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 14/09/2026</title>
+<description>Un drone russe a touche la locomotive d'un train reliant Kyiv a Varsovie a deux kilometres de la frontiere polonaise, tandis que la reunion prevue lundi entre l'Iran et les pays du Golfe sur le detroit d'Ormuz a ete reportee dimanche, quelques heures apres qu'un navire iranien a ete touche pres de l'ile de Qeshm. Le sommet des BRICS s'est acheve a New Delhi sur une declaration commune appelant au dialogue, et Wall Street aborde une semaine cruciale avec la decision de la Fed attendue mercredi. Cote intelligence artificielle, le patron d'Anthropic Dario Amodei appelle a ralentir la course aux capacites des modeles, pendant que Google devoile un modele specialise dans la cybersecurite.</description>
+<pubDate>Mon, 14 Sep 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-14.mp3" length="9236736" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-09-14</guid>
+</item>
+<item>
 <title>Briefing du 13/09/2026</title>
 <description>Cette nuit encore, la Russie a frappe fort en Ukraine avec au moins onze morts et pres de cent blesses, tandis que le sommet des BRICS s'acheve ce dimanche a New Delhi apres l'adoption unanime de sa declaration commune. A Wall Street, l'attention se tourne vers la Fed qui doit trancher mercredi sur ses taux, dans un contexte de tensions renouvelees sur le petrole apres une attaque de drones contre un oleoduc saoudien. Et en France, Mistral AI a capte a elle seule 97% des 3 milliards d'euros leves par la tech francaise cette semaine.</description>
 <pubDate>Sun, 13 Sep 2026 06:00:00 +0200</pubDate>
@@ -209,13 +216,6 @@
 <pubDate>Sat, 15 Aug 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-15.mp3" length="9132480" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-08-15</guid>
-</item>
-<item>
-<title>Briefing du 14/08/2026</title>
-<description>Un porte-avions américain met le cap sur le Moyen-Orient pour relever un autre qui vient de battre un record de temps en mer, tandis que l'est du Japon est frappé par des pluies torrentielles sans précédent. À Wall Street, le S&amp;P 500 franchit pour la première fois de son histoire la barre des 7800 points, porté par une inflation américaine plus douce que prévu. Riot Platforms, ancien mineur de bitcoin, signe un bail de 9,1 milliards de dollars avec Anthropic pour un data center au Texas. Et en Australie, des méduses bioluminescentes dansent au rythme de musique électronique.</description>
-<pubDate>Fri, 14 Aug 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-14.mp3" length="8802816" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-08-14</guid>
 </item>
 </channel>
 </rss>
