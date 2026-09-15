@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 15/09/2026</title>
+<description>Wall Street a terminé la semaine sur une note franchement négative lundi, entraînée par un effondrement des valeurs technologiques après un appel inédit des grands patrons de l'IA à ralentir la course aux modèles les plus puissants, une sortie qui a immédiatement provoqué la colère de Donald Trump. Au Yémen, les rebelles Houthis ont achevé leur mainmise sur le détroit de Bab-el-Mandeb en s'emparant de l'île de Périm, pendant que les discussions sur le détroit d'Ormuz restent au point mort et que l'Arabie saoudite répare son oléoduc de contournement endommagé. La Fed, elle, se réunit ce mardi et mercredi dans un climat particulièrement tendu, avec des paris de marché qui frôlent les 90 % de probabilité d'une hausse de taux.</description>
+<pubDate>Tue, 15 Sep 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-15.mp3" length="9412608" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-09-15</guid>
+</item>
+<item>
 <title>Briefing du 14/09/2026</title>
 <description>Un drone russe a touche la locomotive d'un train reliant Kyiv a Varsovie a deux kilometres de la frontiere polonaise, tandis que la reunion prevue lundi entre l'Iran et les pays du Golfe sur le detroit d'Ormuz a ete reportee dimanche, quelques heures apres qu'un navire iranien a ete touche pres de l'ile de Qeshm. Le sommet des BRICS s'est acheve a New Delhi sur une declaration commune appelant au dialogue, et Wall Street aborde une semaine cruciale avec la decision de la Fed attendue mercredi. Cote intelligence artificielle, le patron d'Anthropic Dario Amodei appelle a ralentir la course aux capacites des modeles, pendant que Google devoile un modele specialise dans la cybersecurite.</description>
 <pubDate>Mon, 14 Sep 2026 06:00:00 +0200</pubDate>
@@ -209,13 +216,6 @@
 <pubDate>Sun, 16 Aug 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-16.mp3" length="9031296" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-08-16</guid>
-</item>
-<item>
-<title>Briefing du 15/08/2026</title>
-<description>Une nuit encore lourde sur le front ukrainien, un vendredi un peu plus fébrile à Wall Street après un coup de froid sur le moral des consommateurs américains, et un vrai déferlement de nouvelles côté intelligence artificielle, entre un laboratoire qui a fabriqué des virus entiers avec une IA et deux mille robots-taxis qui débarquent en Europe. Et pour finir en beauté, une civilisation vieille de deux mille ans qu'on vient de redécouvrir sous la canopée amazonienne, grâce à des lasers.</description>
-<pubDate>Sat, 15 Aug 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-15.mp3" length="9132480" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-08-15</guid>
 </item>
 </channel>
 </rss>
