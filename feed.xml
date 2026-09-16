@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 16/09/2026</title>
+<description>Nouvelle nuit de frappes de drones russes sur Kyiv, tandis que le petrole grimpe a son plus haut niveau en quatre mois avec l'oleoduc saoudien toujours a l'arret et le detroit d'Ormuz bloque. Wall Street a recule mardi a l'approche de la decision de la Fed, attendue ce mercredi avec une probabilite de hausse de taux proche de 93%. Cote intelligence artificielle, OpenAI confirme etre en discussion avec Anthropic et Google DeepMind sur un pacte de securite commun, dans le sillage de l'appel de Dario Amodei a ralentir la course aux modeles les plus puissants.</description>
+<pubDate>Wed, 16 Sep 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-16.mp3" length="8508480" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-09-16</guid>
+</item>
+<item>
 <title>Briefing du 15/09/2026</title>
 <description>Wall Street a terminé la semaine sur une note franchement négative lundi, entraînée par un effondrement des valeurs technologiques après un appel inédit des grands patrons de l'IA à ralentir la course aux modèles les plus puissants, une sortie qui a immédiatement provoqué la colère de Donald Trump. Au Yémen, les rebelles Houthis ont achevé leur mainmise sur le détroit de Bab-el-Mandeb en s'emparant de l'île de Périm, pendant que les discussions sur le détroit d'Ormuz restent au point mort et que l'Arabie saoudite répare son oléoduc de contournement endommagé. La Fed, elle, se réunit ce mardi et mercredi dans un climat particulièrement tendu, avec des paris de marché qui frôlent les 90 % de probabilité d'une hausse de taux.</description>
 <pubDate>Tue, 15 Sep 2026 06:00:00 +0200</pubDate>
@@ -209,13 +216,6 @@
 <pubDate>Mon, 17 Aug 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-17.mp3" length="9846336" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-08-17</guid>
-</item>
-<item>
-<title>Briefing du 16/08/2026</title>
-<description>Ce dimanche, l'Ukraine annonce avoir repris près de 750 kilomètres carrés dans la région du Dnipropetrovsk, pendant que Sébastien Lecornu prépare sa visite en Gironde pour lancer la reconstruction après les incendies de l'été. À Wall Street, on regarde déjà la semaine prochaine, entre résultats de la grande distribution et symposium de Jackson Hole, tandis que le bitcoin recule sous les 63 000 dollars le temps du week-end. OpenAI met en pause son modèle le plus avancé pour des raisons de sécurité, Meta publie un manifeste pour une IA ouverte, et des scientifiques découvrent que le dodo n'était peut-être pas si bête que ça.</description>
-<pubDate>Sun, 16 Aug 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-16.mp3" length="9031296" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-08-16</guid>
 </item>
 </channel>
 </rss>
