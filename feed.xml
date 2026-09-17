@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 17/09/2026</title>
+<description>Une Fed qui a osé remonter ses taux pour la première fois depuis 2023, et Wall Street qui n'a pas franchement apprécié. Bruxelles présente son EU Kids Act pour encadrer l'accès des mineurs aux réseaux sociaux et aux chatbots IA, pendant qu'OpenAI pourrait devenir l'entreprise privée la plus valorisée de l'histoire. Et pour finir en douceur, un ver resté congelé vingt-quatre mille ans en Sibérie qui s'est tout simplement remis à vivre.</description>
+<pubDate>Thu, 17 Sep 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-17.mp3" length="9162240" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-09-17</guid>
+</item>
+<item>
 <title>Briefing du 16/09/2026</title>
 <description>Nouvelle nuit de frappes de drones russes sur Kyiv, tandis que le petrole grimpe a son plus haut niveau en quatre mois avec l'oleoduc saoudien toujours a l'arret et le detroit d'Ormuz bloque. Wall Street a recule mardi a l'approche de la decision de la Fed, attendue ce mercredi avec une probabilite de hausse de taux proche de 93%. Cote intelligence artificielle, OpenAI confirme etre en discussion avec Anthropic et Google DeepMind sur un pacte de securite commun, dans le sillage de l'appel de Dario Amodei a ralentir la course aux modeles les plus puissants.</description>
 <pubDate>Wed, 16 Sep 2026 06:00:00 +0200</pubDate>
@@ -209,13 +216,6 @@
 <pubDate>Tue, 18 Aug 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-18.mp3" length="9725184" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-08-18</guid>
-</item>
-<item>
-<title>Briefing du 17/08/2026</title>
-<description>Une nuit particulièrement meurtrière en Ukraine fait au moins dix-neuf morts, tandis que huit pays musulmans condamnent le rejet israélien du plan de paix pour Gaza. À Wall Street, les indices reculent légèrement vendredi après des records en milieu de semaine, plombés par des ventes au détail décevantes, pendant qu'Anthropic viserait une entrée en bourse à deux mille milliards de dollars dès octobre. Et pour finir, un nouveau genre de coléoptère vient d'être baptisé en hommage à un héros de manga.</description>
-<pubDate>Mon, 17 Aug 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-17.mp3" length="9846336" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-08-17</guid>
 </item>
 </channel>
 </rss>
