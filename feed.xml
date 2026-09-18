@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 18/09/2026</title>
+<description>Un Congrès américain qui vient d'ouvrir la porte à des droits de douane de 100% contre les acheteurs de pétrole russe, et Wall Street qui a effacé en une seule séance toute la panique de la veille sur la Fed. On parle aussi d'un vrai malaise chez les patrons de l'IA, qui commencent à se demander tout haut si leurs propres produits ne sont pas en train de leur échapper un peu. Et pour finir, un diplodocus retrouvé en Espagne, la première preuve de la présence de ce genre de dinosaure hors d'Amérique du Nord.</description>
+<pubDate>Fri, 18 Sep 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-18.mp3" length="8544768" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-09-18</guid>
+</item>
+<item>
 <title>Briefing du 17/09/2026</title>
 <description>Une Fed qui a osé remonter ses taux pour la première fois depuis 2023, et Wall Street qui n'a pas franchement apprécié. Bruxelles présente son EU Kids Act pour encadrer l'accès des mineurs aux réseaux sociaux et aux chatbots IA, pendant qu'OpenAI pourrait devenir l'entreprise privée la plus valorisée de l'histoire. Et pour finir en douceur, un ver resté congelé vingt-quatre mille ans en Sibérie qui s'est tout simplement remis à vivre.</description>
 <pubDate>Thu, 17 Sep 2026 06:00:00 +0200</pubDate>
@@ -209,13 +216,6 @@
 <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-19.mp3" length="8929152" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-08-19</guid>
-</item>
-<item>
-<title>Briefing du 18/08/2026</title>
-<description>Une nouvelle nuit de frappes a fait au moins neuf morts en Ukraine, tandis que le mémorandum américano-iranien sur le détroit d'Ormuz a expiré lundi sans successeur, faisant bondir le pétrole et plombant les indices boursiers des deux côtés de l'Atlantique. À Wall Street, le S&amp;P 500 a cédé 0,50% sur fond de remontée des taux longs, le rendement des obligations à trente ans atteignant son plus haut niveau depuis 2007. Et à Los Angeles, des paléontologues ont identifié une nouvelle espèce de crapaud de l'ère glaciaire, restée sans nom dans un tiroir de musée pendant plus de soixante-dix ans.</description>
-<pubDate>Tue, 18 Aug 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-18.mp3" length="9725184" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-08-18</guid>
 </item>
 </channel>
 </rss>
