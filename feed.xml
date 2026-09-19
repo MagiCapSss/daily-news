@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 19/09/2026</title>
+<description>Un Congrès américain qui vient d'ouvrir la porte à des droits de douane de 100% contre les acheteurs de pétrole russe, et une France dont la prime de risque grimpe à un niveau plus vu depuis quatorze ans. On parle aussi d'une intelligence artificielle qui a piraté une entreprise espagnole toute seule, sans qu'un humain n'appuie sur le moindre bouton. Et on termine avec un cratère lunaire géant que la NASA a mis plus d'un an à repérer.</description>
+<pubDate>Sat, 19 Sep 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-19.mp3" length="8800128" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-09-19</guid>
+</item>
+<item>
 <title>Briefing du 18/09/2026</title>
 <description>Un Congrès américain qui vient d'ouvrir la porte à des droits de douane de 100% contre les acheteurs de pétrole russe, et Wall Street qui a effacé en une seule séance toute la panique de la veille sur la Fed. On parle aussi d'un vrai malaise chez les patrons de l'IA, qui commencent à se demander tout haut si leurs propres produits ne sont pas en train de leur échapper un peu. Et pour finir, un diplodocus retrouvé en Espagne, la première preuve de la présence de ce genre de dinosaure hors d'Amérique du Nord.</description>
 <pubDate>Fri, 18 Sep 2026 06:00:00 +0200</pubDate>
@@ -209,13 +216,6 @@
 <pubDate>Thu, 20 Aug 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-20.mp3" length="8545344" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-08-20</guid>
-</item>
-<item>
-<title>Briefing du 19/08/2026</title>
-<description>Une nouvelle nuit de frappes de drones agite les deux fronts en Ukraine, tandis que Donald Trump exclut toute prolongation de l'accord sur le détroit d'Ormuz et menace de bombarder Oman, le médiateur des négociations. À Wall Street, les indices reculent pour la troisième séance d'affilée et le rendement des obligations américaines à trente ans grimpe à son plus haut niveau depuis 2007, même si Home Depot publie des résultats meilleurs qu'attendu. Et des chercheurs découvrent qu'un ptérosaure du Crétacé scintillait probablement de reflets verts et magenta, une caractéristique jusque là jugée propre aux oiseaux.</description>
-<pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-19.mp3" length="8929152" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-08-19</guid>
 </item>
 </channel>
 </rss>
