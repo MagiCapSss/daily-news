@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 21/09/2026</title>
+<description>Kyiv a lance sa plus grosse attaque de drones jamais menee sur Moscou pendant les elections legislatives russes, Scott Bessent et le vice-premier ministre chinois He Lifeng ont lance un dialogue inedit sur les risques de l'intelligence artificielle a quelques jours du sommet Trump-Xi, et une plainte antitrust vise desormais Anthropic, OpenAI, Google et xAI pour s'etre concertes sur un ralentissement de leurs modeles. Voici le point complet.</description>
+<pubDate>Mon, 21 Sep 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-21.mp3" length="8919360" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-09-21</guid>
+</item>
+<item>
 <title>Briefing du 20/09/2026</title>
 <description>Donald Trump vient de signer une loi qui menace la Chine et l'Inde de droits de douane pouvant atteindre 100% sur le petrole russe, la prime de risque francaise sur les marches obligataires a franchi un seuil plus vu depuis 2012, et les patrons de cinq des plus grands laboratoires d'intelligence artificielle au monde viennent de lancer un appel commun, du jamais-vu, pour ralentir la course aux modeles les plus puissants. Voici le point complet.</description>
 <pubDate>Sun, 20 Sep 2026 06:00:00 +0200</pubDate>
@@ -209,13 +216,6 @@
 <pubDate>Sat, 22 Aug 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-22.mp3" length="12646464" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-08-22</guid>
-</item>
-<item>
-<title>Briefing du 21/08/2026</title>
-<description>Cette nuit du 19 au 20 août restera l'une des plus dures de l'année pour l'Ukraine, avec une attaque russe massive qui a même débordé sur le territoire roumain, donc sur l'OTAN. À Wall Street, Walmart a plongé de près de 10% malgré des résultats meilleurs que prévu, entraînant le Dow Jones dans sa pire séance depuis fin juillet, pendant que le bitcoin s'envolait de plus de 10% en deux jours grâce à un coup de pouce inattendu de Donald Trump. À Paris, le CAC 40 vient d'enchaîner une série de baisses inédite depuis 2017. On vous raconte tout ça, et beaucoup d'autres choses, tout de suite.</description>
-<pubDate>Fri, 21 Aug 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-21.mp3" length="10577664" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-08-21</guid>
 </item>
 </channel>
 </rss>
