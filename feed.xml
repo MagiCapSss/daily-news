@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 22/09/2026</title>
+<description>Xi Jinping arrive mercredi à Washington pour son premier déplacement aux États-Unis en dix ans, à la veille d'un sommet à très haut enjeu avec Donald Trump. Sur les marchés, Wall Street a signé lundi sa meilleure séance depuis des semaines, portée par un rebond spectaculaire des semi-conducteurs, pendant que le bitcoin bondissait de plus de 5% en une nuit après un short squeeze massif. Voici le point complet.</description>
+<pubDate>Tue, 22 Sep 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-22.mp3" length="8784000" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-09-22</guid>
+</item>
+<item>
 <title>Briefing du 21/09/2026</title>
 <description>Kyiv a lance sa plus grosse attaque de drones jamais menee sur Moscou pendant les elections legislatives russes, Scott Bessent et le vice-premier ministre chinois He Lifeng ont lance un dialogue inedit sur les risques de l'intelligence artificielle a quelques jours du sommet Trump-Xi, et une plainte antitrust vise desormais Anthropic, OpenAI, Google et xAI pour s'etre concertes sur un ralentissement de leurs modeles. Voici le point complet.</description>
 <pubDate>Mon, 21 Sep 2026 06:00:00 +0200</pubDate>
@@ -209,13 +216,6 @@
 <pubDate>Sun, 23 Aug 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-23.mp3" length="9747840" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-08-23</guid>
-</item>
-<item>
-<title>Briefing du 22/08/2026</title>
-<description>Une nuit encore une fois très violente en Ukraine, avec une frappe russe qui a visé un centre commercial dans la ville natale de Zelensky. Du côté des marchés, la crypto s'envole littéralement, le bitcoin vient de signer sa meilleure semaine depuis 2023, pendant que le CAC 40 met enfin fin à une série noire de huit séances de baisse. On revient sur tout ça, plus un joli fait scientifique pour finir en douceur.</description>
-<pubDate>Sat, 22 Aug 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-22.mp3" length="12646464" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-08-22</guid>
 </item>
 </channel>
 </rss>
