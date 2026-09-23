@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 23/09/2026</title>
+<description>Xi Jinping doit arriver ce mercredi à Washington pour une visite d'État inédite depuis onze ans, à quelques heures d'un sommet à très haut enjeu avec Donald Trump. Au même moment, le Conseil de sécurité de l'ONU s'apprête à entendre Sam Altman et Dario Amodei sur les risques de l'intelligence artificielle pour la sécurité internationale. Sur les marchés, le Nasdaq a signé mardi soir un nouveau record porté par l'accueil réservé à l'agent IA de Meta, pendant que le bitcoin frôle les 87 000 dollars. Voici le point complet.</description>
+<pubDate>Wed, 23 Sep 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-23.mp3" length="9011136" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-09-23</guid>
+</item>
+<item>
 <title>Briefing du 22/09/2026</title>
 <description>Xi Jinping arrive mercredi à Washington pour son premier déplacement aux États-Unis en dix ans, à la veille d'un sommet à très haut enjeu avec Donald Trump. Sur les marchés, Wall Street a signé lundi sa meilleure séance depuis des semaines, portée par un rebond spectaculaire des semi-conducteurs, pendant que le bitcoin bondissait de plus de 5% en une nuit après un short squeeze massif. Voici le point complet.</description>
 <pubDate>Tue, 22 Sep 2026 06:00:00 +0200</pubDate>
@@ -209,13 +216,6 @@
 <pubDate>Mon, 24 Aug 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-24.mp3" length="8102400" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-08-24</guid>
-</item>
-<item>
-<title>Briefing du 23/08/2026</title>
-<description>Le bilan de la frappe russe sur le centre commercial de Kryvyi Rih continue de s'alourdir, pendant qu'une nouvelle nuit d'attaques a encore visé la frontière moldave. Côté marchés, le week-end a été mouvementé pour les cryptomonnaies avec un flash crash spectaculaire samedi, avant une semaine qui s'annonce déterminante entre résultats de Nvidia et premier grand discours du nouveau patron de la Fed à Jackson Hole. On revient sur tout ça, plus une découverte assez contre-intuitive sur le fonctionnement de l'Ozempic dans le cerveau.</description>
-<pubDate>Sun, 23 Aug 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-23.mp3" length="9747840" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-08-23</guid>
 </item>
 </channel>
 </rss>
