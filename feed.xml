@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 24/09/2026</title>
+<description>Xi Jinping et Donald Trump ouvrent ce jeudi leur sommet à Washington, quelques heures après une extension surprise de la trêve commerciale sino-américaine jusqu'au 10 janvier. Sur les marchés, Wall Street a nettement reculé mercredi soir, les rendements du Trésor américain ayant grimpé à leur plus haut niveau depuis 2007 sous l'effet de signaux très fermes de la Fed. Pendant ce temps, à l'ONU, Sam Altman et Dario Amodei ont averti le Conseil de sécurité que l'humanité pourrait perdre le contrôle de l'intelligence artificielle. Voici le point complet.</description>
+<pubDate>Thu, 24 Sep 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-24.mp3" length="8772096" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-09-24</guid>
+</item>
+<item>
 <title>Briefing du 23/09/2026</title>
 <description>Xi Jinping doit arriver ce mercredi à Washington pour une visite d'État inédite depuis onze ans, à quelques heures d'un sommet à très haut enjeu avec Donald Trump. Au même moment, le Conseil de sécurité de l'ONU s'apprête à entendre Sam Altman et Dario Amodei sur les risques de l'intelligence artificielle pour la sécurité internationale. Sur les marchés, le Nasdaq a signé mardi soir un nouveau record porté par l'accueil réservé à l'agent IA de Meta, pendant que le bitcoin frôle les 87 000 dollars. Voici le point complet.</description>
 <pubDate>Wed, 23 Sep 2026 06:00:00 +0200</pubDate>
@@ -209,13 +216,6 @@
 <pubDate>Tue, 25 Aug 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-25.mp3" length="9551808" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-08-25</guid>
-</item>
-<item>
-<title>Briefing du 24/08/2026</title>
-<description>Une semaine chargee s'ouvre entre Jackson Hole, l'escalade autour de l'Iran et une actualite IA toujours aussi dense. Wall Street a rebondi vendredi mais signe une deuxieme semaine de pertes d'affilee, plombee par un marche obligataire nerveux, pendant que le bitcoin s'envole de pres de 23% en une semaine. On fait aussi le point sur l'AI Act entre en application, la bataille juridique entre Apple et OpenAI, et le debat qui monte sur une possible bulle IA.</description>
-<pubDate>Mon, 24 Aug 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-24.mp3" length="8102400" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-08-24</guid>
 </item>
 </channel>
 </rss>
