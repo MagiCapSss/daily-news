@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 25/09/2026</title>
+<description>Donald Trump et Xi Jinping ont dine ensemble jeudi soir a la Maison-Blanche au terme d'un sommet qui a surtout debouche sur la prolongation de leur treve commerciale jusqu'au 10 janvier. Sur les marches, le rendement du Tresor americain a 10 ans a grimpe jusqu'a environ 5,15 a 5,22%, son plus haut niveau depuis 2007, tandis que le bitcoin redescendait de ses sommets de la semaine. Entre une faille de securite exploitee sur plusieurs produits, un nouveau patron chez Apple et un diplodocus retrouve en Espagne, voici le point complet.</description>
+<pubDate>Fri, 25 Sep 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-25.mp3" length="8967936" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-09-25</guid>
+</item>
+<item>
 <title>Briefing du 24/09/2026</title>
 <description>Xi Jinping et Donald Trump ouvrent ce jeudi leur sommet à Washington, quelques heures après une extension surprise de la trêve commerciale sino-américaine jusqu'au 10 janvier. Sur les marchés, Wall Street a nettement reculé mercredi soir, les rendements du Trésor américain ayant grimpé à leur plus haut niveau depuis 2007 sous l'effet de signaux très fermes de la Fed. Pendant ce temps, à l'ONU, Sam Altman et Dario Amodei ont averti le Conseil de sécurité que l'humanité pourrait perdre le contrôle de l'intelligence artificielle. Voici le point complet.</description>
 <pubDate>Thu, 24 Sep 2026 06:00:00 +0200</pubDate>
@@ -209,13 +216,6 @@
 <pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-26.mp3" length="8771904" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-08-26</guid>
-</item>
-<item>
-<title>Briefing du 25/08/2026</title>
-<description>La semaine des grands rendez-vous se poursuit entre les resultats de Nvidia mercredi, le symposium de Jackson Hole qui s'ouvre jeudi et une nouvelle escalade commerciale entre Washington et Ottawa. Sur le terrain, la guerre en Ukraine reste marquee par des frappes particulierement meurtrieres, avec un bilan qui s'alourdit a Kryvyi Rih, et Washington durcit encore la pression sur Teheran avec une nouvelle vague de sanctions. Cote marches, les semi-conducteurs reculent avant Nvidia, l'or grimpe pres de 4 660 dollars et le bitcoin franchit les 79 000 dollars. On revient aussi sur une levee de 2 milliards de dollars pour l'australien Firmus, et on termine avec un lezard thailandais baptise en hommage a un dragon de la serie House of the Dragon.</description>
-<pubDate>Tue, 25 Aug 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-25.mp3" length="9551808" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-08-25</guid>
 </item>
 </channel>
 </rss>
