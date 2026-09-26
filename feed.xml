@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 26/09/2026</title>
+<description>Le sommet Trump-Xi se referme a Washington sans grande percee mais avec une treve commerciale prolongee jusqu'en 2027, pendant que le petrole recule sur fond d'espoirs de reouverture du detroit d'Ormuz. Wall Street boucle une semaine gagnante malgre des taux obligataires qui remontent, la Fed et la BCE ayant toutes deux releve leurs taux directeurs ce mois-ci. Cote intelligence artificielle, Anthropic, OpenAI et Google ont chacun lance un nouveau modele la meme semaine, pendant que les patrons du secteur alertent l'ONU sur les risques de l'IA et qu'un senateur americain propose carrement de l'interdire au-dela des capacites humaines.</description>
+<pubDate>Sat, 26 Sep 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-26.mp3" length="8831040" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-09-26</guid>
+</item>
+<item>
 <title>Briefing du 25/09/2026</title>
 <description>Donald Trump et Xi Jinping ont dine ensemble jeudi soir a la Maison-Blanche au terme d'un sommet qui a surtout debouche sur la prolongation de leur treve commerciale jusqu'au 10 janvier. Sur les marches, le rendement du Tresor americain a 10 ans a grimpe jusqu'a environ 5,15 a 5,22%, son plus haut niveau depuis 2007, tandis que le bitcoin redescendait de ses sommets de la semaine. Entre une faille de securite exploitee sur plusieurs produits, un nouveau patron chez Apple et un diplodocus retrouve en Espagne, voici le point complet.</description>
 <pubDate>Fri, 25 Sep 2026 06:00:00 +0200</pubDate>
@@ -209,13 +216,6 @@
 <pubDate>Thu, 27 Aug 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-27.mp3" length="8926272" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-08-27</guid>
-</item>
-<item>
-<title>Briefing du 26/08/2026</title>
-<description>Vote de confiance explosif en vue le 8 septembre pour Bayrou, guerre commerciale entre Washington et Ottawa, et resultats de Nvidia attendus ce soir avec toute la planete tech suspendue a l'ecran. L'or franchit les 4600 dollars, le petrole recule avec le degel possible entre Washington et Teheran, et Anthropic viserait la plus grosse introduction en bourse de l'histoire, a 2000 milliards de dollars. Au menu egalement, l'amende de 890 millions d'euros infligee a Google par Bruxelles, le debat sur l'IA et l'emploi, et une mutation genetique qui pourrait expliquer l'intelligence des poulpes.</description>
-<pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-26.mp3" length="8771904" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-08-26</guid>
 </item>
 </channel>
 </rss>
