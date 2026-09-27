@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 27/09/2026</title>
+<description>Les Francais retournent aux urnes ce dimanche pour renouveler la moitie du Senat, Donald Trump rejette la derniere proposition iranienne sur le detroit d'Ormuz, Wall Street termine sa semaine dans le vert malgre une treve petroliere deja fragilisee, et une cyberattaque menee par des agents d'intelligence artificielle autonomes relance le debat sur les risques de cette technologie.</description>
+<pubDate>Sun, 27 Sep 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-27.mp3" length="9090816" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-09-27</guid>
+</item>
+<item>
 <title>Briefing du 26/09/2026</title>
 <description>Le sommet Trump-Xi se referme a Washington sans grande percee mais avec une treve commerciale prolongee jusqu'en 2027, pendant que le petrole recule sur fond d'espoirs de reouverture du detroit d'Ormuz. Wall Street boucle une semaine gagnante malgre des taux obligataires qui remontent, la Fed et la BCE ayant toutes deux releve leurs taux directeurs ce mois-ci. Cote intelligence artificielle, Anthropic, OpenAI et Google ont chacun lance un nouveau modele la meme semaine, pendant que les patrons du secteur alertent l'ONU sur les risques de l'IA et qu'un senateur americain propose carrement de l'interdire au-dela des capacites humaines.</description>
 <pubDate>Sat, 26 Sep 2026 06:00:00 +0200</pubDate>
@@ -209,13 +216,6 @@
 <pubDate>Sat, 29 Aug 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-29.mp3" length="10264320" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-08-29</guid>
-</item>
-<item>
-<title>Briefing du 27/08/2026</title>
-<description>Nvidia explose ses resultats et calme la nervosite sur l'IA, Meta signe un cheque de plus de seize milliards de dollars pour solder ses ennuis judiciaires, et l'or flirte toujours avec les quatre mille sept cents dollars l'once. Kevin Warsh monte sur la scene de Jackson Hole vendredi pour son tout premier grand oral en tant que president de la Fed, avec des marches obligataires plutot nerveux en ce moment.</description>
-<pubDate>Thu, 27 Aug 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-27.mp3" length="8926272" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-08-27</guid>
 </item>
 </channel>
 </rss>
