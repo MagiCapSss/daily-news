@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 29/09/2026</title>
+<description>Ce mardi, huit syndicats de la fonction publique appellent à la grève en France tandis que l'impasse diplomatique sur le détroit d'Ormuz continue de faire grimper le pétrole et les taux américains à leur plus haut niveau depuis 2007. Wall Street a nettement reculé lundi, plombée par Boeing et la flambée des rendements obligataires, pendant que l'or dévissait à son tour. Côté intelligence artificielle, Google, Anthropic et OpenAI multiplient les annonces sur la cybersécurité à la veille du grand raout d'OpenAI, pendant que les appels à réguler l'IA se multiplient à l'ONU comme à Paris.</description>
+<pubDate>Tue, 29 Sep 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-29.mp3" length="8997120" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-09-29</guid>
+</item>
+<item>
 <title>Briefing du 28/09/2026</title>
 <description>Ce lundi, les elections senatoriales confirment la majorite de droite en France tandis que le RN forme un groupe pour la premiere fois de son histoire. Une alerte terroriste pres d'une base aerienne britannique liee a la guerre en Iran, et Teheran qui maintient ses conditions sur le detroit d'Ormuz, dominent l'actualite internationale. Wall Street a cloture la semaine en hausse porte par l'IA, pendant que les patrons d'Anthropic et d'OpenAI appellent eux-memes a une regulation plus stricte des modeles les plus avances.</description>
 <pubDate>Mon, 28 Sep 2026 06:00:00 +0200</pubDate>
@@ -216,13 +223,6 @@
 <pubDate>Sun, 30 Aug 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-30.mp3" length="9226368" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-08-30</guid>
-</item>
-<item>
-<title>Briefing du 29/08/2026</title>
-<description>Une crue glaciaire devastatrice a fait plus de 470 morts et pres d'un millier de disparus a la frontiere entre le Nepal et le Tibet cette semaine. A Wall Street, le nouveau president de la Fed Kevin Warsh a surpris tout le monde avec un discours plutot muscle a Jackson Hole, et Anthropic fonce vers ce qui pourrait devenir la plus grosse introduction en bourse de l'histoire. Et Nvidia serait sur le point de racheter Hugging Face, la reference mondiale de l'intelligence artificielle open source, pour plus de douze milliards de dollars.</description>
-<pubDate>Sat, 29 Aug 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-29.mp3" length="10264320" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-08-29</guid>
 </item>
 </channel>
 </rss>
