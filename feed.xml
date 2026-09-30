@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 30/09/2026</title>
+<description>Ce mercredi, la France digère une journée de grève massive dans la fonction publique à la veille du budget 2027, tandis que le détroit d'Ormuz reste fermé et continue de pousser l'inflation vers le haut en Europe. Wall Street a terminé mardi en léger repli sous la pression des taux obligataires au plus haut depuis 2007. Côté intelligence artificielle, OpenAI a tenu son DevDay tout en retirant in extremis un modèle jugé trop peu fiable, et Anthropic a déposé son dossier d'introduction en bourse en avertissant elle-même du risque existentiel de ses propres modèles.</description>
+<pubDate>Wed, 30 Sep 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-30.mp3" length="10611264" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-09-30</guid>
+</item>
+<item>
 <title>Briefing du 29/09/2026</title>
 <description>Ce mardi, huit syndicats de la fonction publique appellent à la grève en France tandis que l'impasse diplomatique sur le détroit d'Ormuz continue de faire grimper le pétrole et les taux américains à leur plus haut niveau depuis 2007. Wall Street a nettement reculé lundi, plombée par Boeing et la flambée des rendements obligataires, pendant que l'or dévissait à son tour. Côté intelligence artificielle, Google, Anthropic et OpenAI multiplient les annonces sur la cybersécurité à la veille du grand raout d'OpenAI, pendant que les appels à réguler l'IA se multiplient à l'ONU comme à Paris.</description>
 <pubDate>Tue, 29 Sep 2026 06:00:00 +0200</pubDate>
@@ -216,13 +223,6 @@
 <pubDate>Mon, 31 Aug 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-31.mp3" length="8565888" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-08-31</guid>
-</item>
-<item>
-<title>Briefing du 30/08/2026</title>
-<description>Cette nuit, une frappe russe a vise un depot de munitions pres de Kyiv, faisant au moins 37 morts, et le bilan de la crue glaciaire au Nepal continue lui aussi de s'alourdir, avec plus de 600 morts recenses desormais. Du cote des marches, le discours du nouveau patron de la Fed a fait plonger le bitcoin de plus de 3% en quelques heures avant qu'il ne remonte. Et Salesforce vient d'annoncer qu'il installe tout son CRM a l'interieur de Claude, l'IA d'Anthropic.</description>
-<pubDate>Sun, 30 Aug 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-30.mp3" length="9226368" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-08-30</guid>
 </item>
 </channel>
 </rss>
