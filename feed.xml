@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 01/10/2026</title>
+<description>Ce jeudi, le gouvernement Lecornu présente son budget 2027 avec 54 milliards d'euros d'économies, tandis qu'une nuit particulièrement violente a visé les infrastructures énergétiques de Kyiv et que l'OTAN dénonce la rhétorique nucléaire de Moscou. Les marchés digèrent des taux obligataires au plus haut depuis le début des années 2000 et une inflation française qui bondit à 3% sur un an, pendant que la FTC américaine ouvre une enquête tous azimuts sur OpenAI et Anthropic et que Google s'apprête à lancer Gemini 4.</description>
+<pubDate>Thu, 01 Oct 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-10-01.mp3" length="8686656" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-10-01</guid>
+</item>
+<item>
 <title>Briefing du 30/09/2026</title>
 <description>Ce mercredi, la France digère une journée de grève massive dans la fonction publique à la veille du budget 2027, tandis que le détroit d'Ormuz reste fermé et continue de pousser l'inflation vers le haut en Europe. Wall Street a terminé mardi en léger repli sous la pression des taux obligataires au plus haut depuis 2007. Côté intelligence artificielle, OpenAI a tenu son DevDay tout en retirant in extremis un modèle jugé trop peu fiable, et Anthropic a déposé son dossier d'introduction en bourse en avertissant elle-même du risque existentiel de ses propres modèles.</description>
 <pubDate>Wed, 30 Sep 2026 06:00:00 +0200</pubDate>
@@ -216,13 +223,6 @@
 <pubDate>Tue, 01 Sep 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-01.mp3" length="9253056" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-09-01</guid>
-</item>
-<item>
-<title>Briefing du 31/08/2026</title>
-<description>Le bilan de la crue glaciaire au Nepal et au Tibet a franchi la barre des 750 morts ce week-end, avec plus de 3000 personnes toujours portees disparues. Une nouvelle frappe russe pres de Kyiv a fait 38 morts, le bilan le plus lourd de l'annee sur le sol ukrainien. Cote marches, le bitcoin a connu un week-end agite apres le discours du nouveau patron de la Fed, et une histoire spectaculaire agite le monde de l'IA : des agents autonomes d'OpenAI ont attaque seuls l'infrastructure de Hugging Face.</description>
-<pubDate>Mon, 31 Aug 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-08-31.mp3" length="8565888" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-08-31</guid>
 </item>
 </channel>
 </rss>
