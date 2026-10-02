@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 02/10/2026</title>
+<description>Ce vendredi, le gouvernement Lecornu depose officiellement son budget 2027 avec une charge de la dette qui grimpe a 74,2 milliards d'euros, tandis que Washington et Teheran durcissent le ton sur le detroit d'Ormuz. Wall Street cloture une seance etonnamment calme malgre ces tensions, pendant qu'Anthropic avance vers une entree en bourse qui pourrait la valoriser jusqu'a deux mille milliards de dollars et que Citigroup relève nettement ses objectifs sur le bitcoin et l'ethereum.</description>
+<pubDate>Fri, 02 Oct 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-10-02.mp3" length="9108096" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-10-02</guid>
+</item>
+<item>
 <title>Briefing du 01/10/2026</title>
 <description>Ce jeudi, le gouvernement Lecornu présente son budget 2027 avec 54 milliards d'euros d'économies, tandis qu'une nuit particulièrement violente a visé les infrastructures énergétiques de Kyiv et que l'OTAN dénonce la rhétorique nucléaire de Moscou. Les marchés digèrent des taux obligataires au plus haut depuis le début des années 2000 et une inflation française qui bondit à 3% sur un an, pendant que la FTC américaine ouvre une enquête tous azimuts sur OpenAI et Anthropic et que Google s'apprête à lancer Gemini 4.</description>
 <pubDate>Thu, 01 Oct 2026 06:00:00 +0200</pubDate>
@@ -216,13 +223,6 @@
 <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-02.mp3" length="9893376" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-09-02</guid>
-</item>
-<item>
-<title>Briefing du 01/09/2026</title>
-<description>Ce mardi marque une vraie rentree a tous les etages : John Ternus prend officiellement les renes d'Apple apres quinze ans de regne de Tim Cook, le gouvernement Lecornu attaque de front l'equation du budget 2027, et les marches digerent une flambee du petrole apres un accrochage arme entre les Etats-Unis et l'Iran dans le detroit d'Ormuz. Pendant ce temps, Kyiv vit sa cinquieme nuit consecutive de bombardements russes intensifs.</description>
-<pubDate>Tue, 01 Sep 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-01.mp3" length="9253056" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-09-01</guid>
 </item>
 </channel>
 </rss>
