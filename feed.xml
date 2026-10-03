@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 03/10/2026</title>
+<description>Ce vendredi, pres de quatre cents lycees ont ferme en France apres une journee de violents affrontements, tandis que Wall Street a signe un nouveau record malgre un rapport sur l'emploi americain nettement plus faible que prevu. Google a enfin lance Gemini 4 Argon pour tenter de rattraper OpenAI et Anthropic, qui avance de son cote vers une entree en bourse qui pourrait la valoriser deux mille milliards de dollars, pendant que Mistral AI propulse la French Tech vers son meilleur mois de levees de fonds depuis 2023.</description>
+<pubDate>Sat, 03 Oct 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-10-03.mp3" length="8638656" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-10-03</guid>
+</item>
+<item>
 <title>Briefing du 02/10/2026</title>
 <description>Ce vendredi, le gouvernement Lecornu depose officiellement son budget 2027 avec une charge de la dette qui grimpe a 74,2 milliards d'euros, tandis que Washington et Teheran durcissent le ton sur le detroit d'Ormuz. Wall Street cloture une seance etonnamment calme malgre ces tensions, pendant qu'Anthropic avance vers une entree en bourse qui pourrait la valoriser jusqu'a deux mille milliards de dollars et que Citigroup relève nettement ses objectifs sur le bitcoin et l'ethereum.</description>
 <pubDate>Fri, 02 Oct 2026 06:00:00 +0200</pubDate>
@@ -216,13 +223,6 @@
 <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-03.mp3" length="8723136" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-09-03</guid>
-</item>
-<item>
-<title>Briefing du 02/09/2026</title>
-<description>Cette nuit a ete la plus violente depuis le debut de la sequence de frappes russes sur Kyiv, avec au moins seize morts, tandis que deux petroliers ont ete touches par des tirs dans le detroit d'Ormuz, signe d'une nouvelle escalade entre Washington et Teheran. Sur les marches, le petrole flambe encore et les paris sur une hausse des taux de la Fed grimpent en fleche. Et l'Union europeenne vient de classer ChatGPT comme un tres grand moteur de recherche en ligne, une premiere reglementaire pour un chatbot.</description>
-<pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-02.mp3" length="9893376" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-09-02</guid>
 </item>
 </channel>
 </rss>
