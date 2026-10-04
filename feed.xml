@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 04/10/2026</title>
+<description>Ce dimanche, cent soixante millions de Bresiliens votent pour le premier tour d'une presidentielle jouee au coude a coude entre Lula et Flavio Bolsonaro, tandis que l'Ukraine a connu une nouvelle nuit de frappes meurtrieres. En France, les taux d'emprunt ont frole un seuil inedit depuis 2002 sur fond de tensions budgetaires et de blocage persistant des lycees. Wall Street a termine la semaine sur des records, et Anthropic avance vers ce qui pourrait devenir la plus grosse entree en bourse de l'histoire.</description>
+<pubDate>Sun, 04 Oct 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-10-04.mp3" length="8099520" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-10-04</guid>
+</item>
+<item>
 <title>Briefing du 03/10/2026</title>
 <description>Ce vendredi, pres de quatre cents lycees ont ferme en France apres une journee de violents affrontements, tandis que Wall Street a signe un nouveau record malgre un rapport sur l'emploi americain nettement plus faible que prevu. Google a enfin lance Gemini 4 Argon pour tenter de rattraper OpenAI et Anthropic, qui avance de son cote vers une entree en bourse qui pourrait la valoriser deux mille milliards de dollars, pendant que Mistral AI propulse la French Tech vers son meilleur mois de levees de fonds depuis 2023.</description>
 <pubDate>Sat, 03 Oct 2026 06:00:00 +0200</pubDate>
@@ -216,13 +223,6 @@
 <pubDate>Fri, 04 Sep 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-04.mp3" length="8250048" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-09-04</guid>
-</item>
-<item>
-<title>Briefing du 03/09/2026</title>
-<description>Nouvelle escalade entre Washington et Teheran qui fait flamber le petrole, vote de confiance decisif de Francois Bayrou a l'Assemblee nationale prevu le 8 septembre, et marches qui reprennent leur souffle apres deux seances agitees. On parle aussi d'un accord a plus de dix milliards de dollars dans l'intelligence artificielle, d'une plainte inedite visant personnellement les fondateurs d'Anthropic, et d'une decouverte inattendue sous nos pieds, en Lorraine.</description>
-<pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-03.mp3" length="8723136" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-09-03</guid>
 </item>
 </channel>
 </rss>
