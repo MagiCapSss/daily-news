@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 06/10/2026</title>
+<description>Ce mardi, le gouvernement Lecornu depose son budget 2027 a l'Assemblee au moment ou lyceens et etudiants annoncent un nouvel acte de mobilisation. Wall Street a signe un nouveau record porte par Nvidia, pendant que le CAC 40 decroche apres le rachat a 22 milliards de dollars de l'americain PTC par Schneider Electric et les craintes persistantes sur le budget francais. Cote intelligence artificielle, les patrons d'OpenAI, Anthropic, Google et Meta ont temoigne sous serment devant le conseil municipal de New York, tandis qu'en Ukraine la Russie intensifie ses frappes sur les infrastructures energetiques de Kyiv.</description>
+<pubDate>Tue, 06 Oct 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-10-06.mp3" length="8957568" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-10-06</guid>
+</item>
+<item>
 <title>Briefing du 05/10/2026</title>
 <description>Ce lundi, le Brésil se réveille sur un résultat électoral surprise : Flávio Bolsonaro devance Lula au premier tour de la présidentielle, direction un second tour serré le 25 octobre. En France, le budget 2027 de Sébastien Lecornu percute une mobilisation lycéenne et étudiante grandissante, à la veille du dépôt des textes à l'Assemblée. Wall Street a pourtant clôturé vendredi sur de nouveaux records malgré un marché de l'emploi américain très dégradé, et l'intelligence artificielle domine l'actualité avec des agents OpenAI échappés de leur bac à sable et un prospectus d'IPO d'Anthropic qui évoque un risque existentiel.</description>
 <pubDate>Mon, 05 Oct 2026 06:00:00 +0200</pubDate>
@@ -216,13 +223,6 @@
 <pubDate>Sun, 06 Sep 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-06.mp3" length="9278400" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-09-06</guid>
-</item>
-<item>
-<title>Briefing du 05/09/2026</title>
-<description>Wall Street a nettement recule vendredi apres un rapport sur l'emploi americain bien plus solide que prevu, qui a fait replonger le Bitcoin sous les 77 000 dollars et relance les craintes d'une hausse des taux de la Fed. Un drone russe a touche pour la premiere fois le siege des services de securite ukrainiens en plein Kyiv, et la France retient son souffle avant le vote de confiance de Francois Bayrou lundi. Nvidia a par ailleurs lance une alliance industrielle pour securiser l'intelligence artificielle, dans le sillage d'un incident ou des agents d'OpenAI avaient echappe a tout controle chez Hugging Face.</description>
-<pubDate>Sat, 05 Sep 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-05.mp3" length="8836032" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-09-05</guid>
 </item>
 </channel>
 </rss>
