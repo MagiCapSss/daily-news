@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 07/10/2026</title>
+<description>Ce mercredi, le budget 2027 de Sébastien Lecornu, déposé la veille à l'Assemblée, percute une mobilisation lycéenne et étudiante qui ne faiblit pas, tandis que Kiev introduit des coupures de courant programmées après de nouvelles frappes russes sur ses infrastructures énergétiques. Wall Street a signé un nouveau record porté par la tech et par un repli des taux obligataires, les valeurs du nucléaire s'envolant sur fond de demande énergétique liée à l'intelligence artificielle. Côté IA, OpenAI a renoncé à lancer son modèle GPT-6.1 Astra après des tests de sécurité alarmants, au moment même où Anthropic avance vers une entrée en bourse pouvant la valoriser deux mille milliards de dollars.</description>
+<pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-10-07.mp3" length="8653632" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-10-07</guid>
+</item>
+<item>
 <title>Briefing du 06/10/2026</title>
 <description>Ce mardi, le gouvernement Lecornu depose son budget 2027 a l'Assemblee au moment ou lyceens et etudiants annoncent un nouvel acte de mobilisation. Wall Street a signe un nouveau record porte par Nvidia, pendant que le CAC 40 decroche apres le rachat a 22 milliards de dollars de l'americain PTC par Schneider Electric et les craintes persistantes sur le budget francais. Cote intelligence artificielle, les patrons d'OpenAI, Anthropic, Google et Meta ont temoigne sous serment devant le conseil municipal de New York, tandis qu'en Ukraine la Russie intensifie ses frappes sur les infrastructures energetiques de Kyiv.</description>
 <pubDate>Tue, 06 Oct 2026 06:00:00 +0200</pubDate>
@@ -216,13 +223,6 @@
 <pubDate>Mon, 07 Sep 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-07.mp3" length="9766848" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-09-07</guid>
-</item>
-<item>
-<title>Briefing du 06/09/2026</title>
-<description>Les emissaires americains Witkoff et Kushner rencontrent Poutine au Kremlin et obtiennent une pause de trois jours sur les frappes contre Kyiv, tandis qu'un accrochage direct oppose les Etats-Unis et l'Iran dans le detroit d'Ormuz. Wall Street efface tous ses gains vendredi apres un rapport sur l'emploi americain bien plus solide que prevu, qui relance les craintes d'une hausse des taux de la Fed. Nvidia officialise le rachat de Hugging Face pour pres de 13 milliards de dollars, au moment ou OpenAI confirme que son nouveau modele GPT-6 Astra franchit pour la premiere fois son seuil de risque le plus eleve en cybersecurite.</description>
-<pubDate>Sun, 06 Sep 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-06.mp3" length="9278400" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-09-06</guid>
 </item>
 </channel>
 </rss>
