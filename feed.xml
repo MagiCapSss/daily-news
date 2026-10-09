@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 09/10/2026</title>
+<description>Ce vendredi, Wall Street digère une histoire de chiffres chez OpenAI qui a fait vaciller les valeurs de l'intelligence artificielle, pendant que le pétrole repart vers les 100 dollars sur fond de tensions dans le détroit d'Ormuz et que le bitcoin tombe sous les 81 000 dollars. En France, le mouvement de contestation lycéenne entame sa quatrième semaine au moment même où le gouvernement dépose son budget 2027 à l'Assemblée. Entre une audition sur la sécurité de l'IA qui continue de faire des vagues à New York, une mésaventure embarrassante pour OpenAI chez Wikimedia, et de nouvelles levées de fonds spectaculaires dans la cybersécurité et la robotique, voici le point complet.</description>
+<pubDate>Fri, 09 Oct 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-10-09.mp3" length="9316800" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-10-09</guid>
+</item>
+<item>
 <title>Briefing du 08/10/2026</title>
 <description>Ce jeudi, la France vit une nouvelle journée de mobilisation lycéenne et, pour la première fois, enseignante, au lendemain d'une séance noire à la Bourse de Paris et à Wall Street où les taux obligataires et le pétrole ont repris la main sur les indices. Le bitcoin a glissé sous les 84 000 dollars sur fond de tensions autour des tankers iraniens, tandis que l'intelligence artificielle reste sous le feu des critiques après une audition explosive devant le conseil municipal de New York, où d'anciens chercheurs d'OpenAI et d'Anthropic ont averti que l'humanité pourrait perdre le contrôle de ses propres systèmes. Entre les levées de fonds spectaculaires dans l'IA et la Fête de la Science qui démarre sur le thème de la gastronomie, voici le point complet.</description>
 <pubDate>Thu, 08 Oct 2026 06:00:00 +0200</pubDate>
@@ -216,13 +223,6 @@
 <pubDate>Wed, 09 Sep 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-09.mp3" length="8820864" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-09-09</guid>
-</item>
-<item>
-<title>Briefing du 08/09/2026</title>
-<description>Les emissaires americains Witkoff et Kushner sont passes de Moscou a Kyiv en l'espace d'un week-end, sans percee officielle mais avec une treve sur les frappes visant les deux capitales. Dans le detroit d'Ormuz, le trafic maritime reste presque a l'arret apres un nouvel echange de tirs entre l'Iran et les Etats-Unis, ce qui fait grimper le petrole a son plus haut niveau en six semaines. Wall Street rouvre ce mardi apres le Labor Day avec des futures dans le rouge, tandis que le marche revoit a la hausse les probabilites d'une hausse des taux de la Fed le 16 septembre. Cote intelligence artificielle, GPT-6 Astra d'OpenAI devient le premier modele a franchir le seuil critique de risque cyber du fabricant, pendant qu'Anthropic multiplie les annonces.</description>
-<pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-08.mp3" length="9906816" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-09-08</guid>
 </item>
 </channel>
 </rss>
