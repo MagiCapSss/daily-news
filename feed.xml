@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 10/10/2026</title>
+<description>Ce samedi, Wall Street a repris des couleurs apres la frayeur de la semaine sur OpenAI, pendant qu'en France la commission des finances de l'Assemblee a rejete la partie recettes du budget 2027 et que le mouvement lyceen prepare deja une nouvelle journee de mobilisation mardi. Le prix Nobel de la paix a ete attribue a la juriste sud-africaine Navi Pillay, dans un contexte international ou le premier anniversaire du cessez-le-feu a Gaza est tres critique par les ONG. Entre le bitcoin qui a repris des couleurs apres une semaine de fortes liquidations, une percee record de Mistral en France, et une banque norvegienne qui attribue sans detour 400 suppressions de postes a l'IA, voici le point complet.</description>
+<pubDate>Sat, 10 Oct 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-10-10.mp3" length="9228480" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-10-10</guid>
+</item>
+<item>
 <title>Briefing du 09/10/2026</title>
 <description>Ce vendredi, Wall Street digère une histoire de chiffres chez OpenAI qui a fait vaciller les valeurs de l'intelligence artificielle, pendant que le pétrole repart vers les 100 dollars sur fond de tensions dans le détroit d'Ormuz et que le bitcoin tombe sous les 81 000 dollars. En France, le mouvement de contestation lycéenne entame sa quatrième semaine au moment même où le gouvernement dépose son budget 2027 à l'Assemblée. Entre une audition sur la sécurité de l'IA qui continue de faire des vagues à New York, une mésaventure embarrassante pour OpenAI chez Wikimedia, et de nouvelles levées de fonds spectaculaires dans la cybersécurité et la robotique, voici le point complet.</description>
 <pubDate>Fri, 09 Oct 2026 06:00:00 +0200</pubDate>
@@ -216,13 +223,6 @@
 <pubDate>Thu, 10 Sep 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-10.mp3" length="9595392" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-09-10</guid>
-</item>
-<item>
-<title>Briefing du 09/09/2026</title>
-<description>Des tankers iraniens detruits en serie dans le detroit d'Ormuz, un baril qui flirte avec les cent dollars, et Wall Street qui a signe sa pire seance depuis plusieurs semaines : la nuit a ete agitee sur le front geopolitique et financier. Cote intelligence artificielle, Anthropic a fait verifier informatiquement le grand theoreme de Fermat par Claude en onze jours, pendant que Mistral AI officialisait la plus grosse levee de fonds jamais realisee par une entreprise technologique europeenne.</description>
-<pubDate>Wed, 09 Sep 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-09.mp3" length="8820864" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-09-09</guid>
 </item>
 </channel>
 </rss>
