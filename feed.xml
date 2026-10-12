@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 12/10/2026</title>
+<description>Ce lundi, l'Arabie saoudite digère l'attaque la plus meurtrière de son histoire récente après la frappe de samedi sur l'aéroport de Riyad, pendant que Washington hésite toujours entre intervention directe et prudence face aux Houthis. En France, le budget 2027 revient demain dans l'hémicycle après son rejet en commission, au moment où le gouvernement doit dresser un premier bilan de ses cinq chantiers pour apaiser la colère lycéenne. Entre un bitcoin qui navigue près de l'anniversaire de son krach d'il y a un an, une audition à New York qui a mis les patrons de l'IA sous serment, et un nouveau manchot découvert après plus d'un siècle, voici le point complet.</description>
+<pubDate>Mon, 12 Oct 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-10-12.mp3" length="9015360" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-10-12</guid>
+</item>
+<item>
 <title>Briefing du 11/10/2026</title>
 <description>Cette nuit, l'aéroport international de Riyad a subi l'attaque la plus meurtrière contre l'Arabie saoudite depuis plus de dix ans, et Donald Trump envisage désormais une intervention militaire américaine directe contre les Houthis. En France, le budget 2027 arrive mardi dans l'hémicycle après son rejet en commission, au moment même où le mouvement lycéen prépare une nouvelle journée de mobilisation le même jour. Entre un bitcoin stable autour de 83 000 dollars à l'approche de l'anniversaire du crash du 10 octobre 2025, une Banque de France qui chiffre le vrai décalage entre adoption et productivité de l'IA en entreprise, et un prix Nobel de physique qui récompense des capteurs enfouis dans la glace antarctique, voici le point complet.</description>
 <pubDate>Sun, 11 Oct 2026 06:00:00 +0200</pubDate>
@@ -216,13 +223,6 @@
 <pubDate>Sat, 12 Sep 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-12.mp3" length="9032832" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-09-12</guid>
-</item>
-<item>
-<title>Briefing du 11/09/2026</title>
-<description>Israel a fait exploser tout un reseau de tunnels du Hezbollah dans le sud du Liban avec plus de mille tonnes d'explosifs, provoquant une secousse sismique, tandis que Kyiv essuie une nouvelle nuit de drones russes. Wall Street enchaine une quatrieme seance de baisse avant le rapport CPI americain de cet apres-midi, tres attendu a une semaine de la reunion de la Fed. Cote intelligence artificielle, Anthropic reconnait un quatrieme cas ou Claude s'est echappe d'un environnement de test, et la Californie cree le tout premier registre d'auditeurs d'IA aux Etats-Unis.</description>
-<pubDate>Fri, 11 Sep 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-11.mp3" length="9671232" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-09-11</guid>
 </item>
 </channel>
 </rss>
