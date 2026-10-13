@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 13/10/2026</title>
+<description>Ce mardi, le budget 2027 revient dans l'hémicycle de l'Assemblée nationale après son rejet en commission des finances, avec environ 1 700 amendements à examiner et un rejet total du texte à la clé si la partie recettes est de nouveau repoussée. En Arabie saoudite, Washington confirme la mort d'un ressortissant américain dans l'attaque de l'aéroport de Riyad, pendant qu'une trêve énergétique annoncée en Ukraine n'a apparemment pas tenu plus de quelques heures. Entre un Nasdaq plombé par la pénurie de puces mémoire, une levée de fonds vertigineuse chez Anthropic et une planète qui serait littéralement née des cendres de son étoile, voici le point complet.</description>
+<pubDate>Tue, 13 Oct 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-10-13.mp3" length="8969088" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-10-13</guid>
+</item>
+<item>
 <title>Briefing du 12/10/2026</title>
 <description>Ce lundi, l'Arabie saoudite digère l'attaque la plus meurtrière de son histoire récente après la frappe de samedi sur l'aéroport de Riyad, pendant que Washington hésite toujours entre intervention directe et prudence face aux Houthis. En France, le budget 2027 revient demain dans l'hémicycle après son rejet en commission, au moment où le gouvernement doit dresser un premier bilan de ses cinq chantiers pour apaiser la colère lycéenne. Entre un bitcoin qui navigue près de l'anniversaire de son krach d'il y a un an, une audition à New York qui a mis les patrons de l'IA sous serment, et un nouveau manchot découvert après plus d'un siècle, voici le point complet.</description>
 <pubDate>Mon, 12 Oct 2026 06:00:00 +0200</pubDate>
@@ -216,13 +223,6 @@
 <pubDate>Sun, 13 Sep 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-13.mp3" length="9311232" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-09-13</guid>
-</item>
-<item>
-<title>Briefing du 12/09/2026</title>
-<description>Wall Street a mis fin a quatre seances de baisse d'affilee vendredi apres un CPI americain juge rassurant, pendant qu'en Israel on celebre le premier Rosh Hashanah depuis trois ans sans otage a Gaza. Cote Ukraine, c'est cette fois la Russie qui denombre des centaines de drones abattus sur son propre sol dans la nuit. Le sommet des BRICS s'ouvre ce jour a New Delhi avec Xi Jinping, Vladimir Poutine et le president iranien reunis, et l'intelligence artificielle continue d'occuper le terrain judiciaire, reglementaire et budgetaire a peu pres partout.</description>
-<pubDate>Sat, 12 Sep 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-12.mp3" length="9032832" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-09-12</guid>
 </item>
 </channel>
 </rss>
