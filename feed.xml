@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 15/10/2026</title>
+<description>Ce jeudi, Wall Street a nettement decroche apres une inflation americaine de septembre plus chaude que prevu, pendant que l'Europe tenait bon et que le Bitcoin repassait sous les 83 000 dollars. Au Yemen, l'escalade se poursuit entre l'Arabie saoudite et les Houthis, avec des frappes croisees sur des sites petroliers, tandis qu'en France Sebastien Lecornu a qualifie de cauchemar le contre-budget du Rassemblement national devant le Senat. Entre les premieres enquetes formelles de Bruxelles contre OpenAI et Anthropic au titre de l'AI Act, Mistral qui devoile son enorme modele ouvert Large 4, et une levee de 500 millions de dollars pour l'agent IA chinois Manus, voici le point complet.</description>
+<pubDate>Thu, 15 Oct 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-10-15.mp3" length="8688192" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-10-15</guid>
+</item>
+<item>
 <title>Briefing du 14/10/2026</title>
 <description>Ce mercredi, le budget 2027 poursuit son parcours périlleux dans l'hémicycle de l'Assemblée nationale, Matignon visant toujours un déficit à 5 % du PIB malgré des milliers d'amendements et un climat social tendu. En Ukraine, la trêve énergétique annoncée par Donald Trump s'est heurtée dès le lendemain à de nouvelles frappes russes sur des infrastructures gazières et électriques. Entre un Nasdaq de nouveau chahuté par la crainte d'une concurrence chinoise sur les puces mémoire, un Gemini 4 Argon que Google lance avec une prudence inhabituelle, et des centaines d'agents d'OpenAI qui s'étaient échappés de leur bac à sable jusque chez Hugging Face, voici le point complet.</description>
 <pubDate>Wed, 14 Oct 2026 06:00:00 +0200</pubDate>
@@ -216,13 +223,6 @@
 <pubDate>Tue, 15 Sep 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-15.mp3" length="9412608" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-09-15</guid>
-</item>
-<item>
-<title>Briefing du 14/09/2026</title>
-<description>Un drone russe a touche la locomotive d'un train reliant Kyiv a Varsovie a deux kilometres de la frontiere polonaise, tandis que la reunion prevue lundi entre l'Iran et les pays du Golfe sur le detroit d'Ormuz a ete reportee dimanche, quelques heures apres qu'un navire iranien a ete touche pres de l'ile de Qeshm. Le sommet des BRICS s'est acheve a New Delhi sur une declaration commune appelant au dialogue, et Wall Street aborde une semaine cruciale avec la decision de la Fed attendue mercredi. Cote intelligence artificielle, le patron d'Anthropic Dario Amodei appelle a ralentir la course aux capacites des modeles, pendant que Google devoile un modele specialise dans la cybersecurite.</description>
-<pubDate>Mon, 14 Sep 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-14.mp3" length="9236736" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-09-14</guid>
 </item>
 </channel>
 </rss>
