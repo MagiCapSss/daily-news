@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 16/10/2026</title>
+<description>Ce vendredi, Wall Street tente de digerer une semaine marquee par les inquietudes sur la dette liee a l'intelligence artificielle, pendant que le budget 2027 continue de s'enliser a l'Assemblee nationale et que la treve energetique annoncee par Donald Trump en Ukraine n'a tenu que quelques heures. Entre un CAC 40 qui resiste plutot bien, un bitcoin de nouveau proche des 82 000 dollars, une etude francaise qui chiffre le recul de l'embauche des jeunes dans les metiers exposes a l'IA, et une poignee de nouvelles levees de fonds pour la French Tech, voici le point complet.</description>
+<pubDate>Fri, 16 Oct 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-10-16.mp3" length="8884416" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-10-16</guid>
+</item>
+<item>
 <title>Briefing du 15/10/2026</title>
 <description>Ce jeudi, Wall Street a nettement decroche apres une inflation americaine de septembre plus chaude que prevu, pendant que l'Europe tenait bon et que le Bitcoin repassait sous les 83 000 dollars. Au Yemen, l'escalade se poursuit entre l'Arabie saoudite et les Houthis, avec des frappes croisees sur des sites petroliers, tandis qu'en France Sebastien Lecornu a qualifie de cauchemar le contre-budget du Rassemblement national devant le Senat. Entre les premieres enquetes formelles de Bruxelles contre OpenAI et Anthropic au titre de l'AI Act, Mistral qui devoile son enorme modele ouvert Large 4, et une levee de 500 millions de dollars pour l'agent IA chinois Manus, voici le point complet.</description>
 <pubDate>Thu, 15 Oct 2026 06:00:00 +0200</pubDate>
@@ -216,13 +223,6 @@
 <pubDate>Wed, 16 Sep 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-16.mp3" length="8508480" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-09-16</guid>
-</item>
-<item>
-<title>Briefing du 15/09/2026</title>
-<description>Wall Street a terminé la semaine sur une note franchement négative lundi, entraînée par un effondrement des valeurs technologiques après un appel inédit des grands patrons de l'IA à ralentir la course aux modèles les plus puissants, une sortie qui a immédiatement provoqué la colère de Donald Trump. Au Yémen, les rebelles Houthis ont achevé leur mainmise sur le détroit de Bab-el-Mandeb en s'emparant de l'île de Périm, pendant que les discussions sur le détroit d'Ormuz restent au point mort et que l'Arabie saoudite répare son oléoduc de contournement endommagé. La Fed, elle, se réunit ce mardi et mercredi dans un climat particulièrement tendu, avec des paris de marché qui frôlent les 90 % de probabilité d'une hausse de taux.</description>
-<pubDate>Tue, 15 Sep 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-15.mp3" length="9412608" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-09-15</guid>
 </item>
 </channel>
 </rss>
