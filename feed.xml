@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 17/10/2026</title>
+<description>Ce samedi, Wall Street digere sa pire semaine depuis juin, plombee par la dette des geants de l'infrastructure IA comme CoreWeave et la remontee du petrole, pendant que le budget 2027 continue son parcours chaotique a l'Assemblee nationale et que la treve energetique annoncee par Donald Trump en Ukraine reste largement theorique. Entre un CAC 40 qui resiste mieux que ses voisins americains, un bitcoin redescendu sous les 82 000 dollars, la saga de la dette de CoreWeave qui fait trembler tout l'ecosysteme IA, et une pluie d'etoiles filantes a ne pas manquer la semaine prochaine, voici le point complet.</description>
+<pubDate>Sat, 17 Oct 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-10-17.mp3" length="9063360" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-10-17</guid>
+</item>
+<item>
 <title>Briefing du 16/10/2026</title>
 <description>Ce vendredi, Wall Street tente de digerer une semaine marquee par les inquietudes sur la dette liee a l'intelligence artificielle, pendant que le budget 2027 continue de s'enliser a l'Assemblee nationale et que la treve energetique annoncee par Donald Trump en Ukraine n'a tenu que quelques heures. Entre un CAC 40 qui resiste plutot bien, un bitcoin de nouveau proche des 82 000 dollars, une etude francaise qui chiffre le recul de l'embauche des jeunes dans les metiers exposes a l'IA, et une poignee de nouvelles levees de fonds pour la French Tech, voici le point complet.</description>
 <pubDate>Fri, 16 Oct 2026 06:00:00 +0200</pubDate>
@@ -216,13 +223,6 @@
 <pubDate>Thu, 17 Sep 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-17.mp3" length="9162240" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-09-17</guid>
-</item>
-<item>
-<title>Briefing du 16/09/2026</title>
-<description>Nouvelle nuit de frappes de drones russes sur Kyiv, tandis que le petrole grimpe a son plus haut niveau en quatre mois avec l'oleoduc saoudien toujours a l'arret et le detroit d'Ormuz bloque. Wall Street a recule mardi a l'approche de la decision de la Fed, attendue ce mercredi avec une probabilite de hausse de taux proche de 93%. Cote intelligence artificielle, OpenAI confirme etre en discussion avec Anthropic et Google DeepMind sur un pacte de securite commun, dans le sillage de l'appel de Dario Amodei a ralentir la course aux modeles les plus puissants.</description>
-<pubDate>Wed, 16 Sep 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-16.mp3" length="8508480" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-09-16</guid>
 </item>
 </channel>
 </rss>
