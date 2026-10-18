@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 18/10/2026</title>
+<description>Ce dimanche, les marchés digèrent toujours la pire semaine du Nasdaq depuis juin, pendant que Donald Trump suspend un nouveau train de sanctions contre la Russie au moment même où Moscou lance l'une de ses plus grosses attaques de l'année contre le réseau électrique ukrainien. À Paris, le budget 2027 poursuit son parcours à l'Assemblée nationale sous la menace d'une censure. Entre un bitcoin qui glisse sous les 82 000 dollars, TSMC qui bat tous ses records grâce à l'IA, et une étoile qui grignote tranquillement son compagnon depuis des centaines de milliers d'années, voici le point complet.</description>
+<pubDate>Sun, 18 Oct 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-10-18.mp3" length="8899968" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-10-18</guid>
+</item>
+<item>
 <title>Briefing du 17/10/2026</title>
 <description>Ce samedi, Wall Street digere sa pire semaine depuis juin, plombee par la dette des geants de l'infrastructure IA comme CoreWeave et la remontee du petrole, pendant que le budget 2027 continue son parcours chaotique a l'Assemblee nationale et que la treve energetique annoncee par Donald Trump en Ukraine reste largement theorique. Entre un CAC 40 qui resiste mieux que ses voisins americains, un bitcoin redescendu sous les 82 000 dollars, la saga de la dette de CoreWeave qui fait trembler tout l'ecosysteme IA, et une pluie d'etoiles filantes a ne pas manquer la semaine prochaine, voici le point complet.</description>
 <pubDate>Sat, 17 Oct 2026 06:00:00 +0200</pubDate>
@@ -216,13 +223,6 @@
 <pubDate>Fri, 18 Sep 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-18.mp3" length="8544768" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-09-18</guid>
-</item>
-<item>
-<title>Briefing du 17/09/2026</title>
-<description>Une Fed qui a osé remonter ses taux pour la première fois depuis 2023, et Wall Street qui n'a pas franchement apprécié. Bruxelles présente son EU Kids Act pour encadrer l'accès des mineurs aux réseaux sociaux et aux chatbots IA, pendant qu'OpenAI pourrait devenir l'entreprise privée la plus valorisée de l'histoire. Et pour finir en douceur, un ver resté congelé vingt-quatre mille ans en Sibérie qui s'est tout simplement remis à vivre.</description>
-<pubDate>Thu, 17 Sep 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-17.mp3" length="9162240" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-09-17</guid>
 </item>
 </channel>
 </rss>
