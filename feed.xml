@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 19/10/2026</title>
+<description>Ce lundi, l'Assemblée nationale s'apprête à voter demain la première partie du budget 2027, pendant que Donald Trump met en pause de nouvelles sanctions contre la Russie au grand dam de Kiev. Wall Street continue de digérer une semaine nerveuse marquée par le dossier de la dette de CoreWeave, tandis que la FTC américaine s'invite à son tour dans la bataille réglementaire sur la sécurité des IA. Entre un bitcoin stable autour de 82 000 dollars, un pétrole au plus haut depuis mai, et un requin fantôme costaricien qu'on croyait disparu, voici le point complet.</description>
+<pubDate>Mon, 19 Oct 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-10-19.mp3" length="10097856" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-10-19</guid>
+</item>
+<item>
 <title>Briefing du 18/10/2026</title>
 <description>Ce dimanche, les marchés digèrent toujours la pire semaine du Nasdaq depuis juin, pendant que Donald Trump suspend un nouveau train de sanctions contre la Russie au moment même où Moscou lance l'une de ses plus grosses attaques de l'année contre le réseau électrique ukrainien. À Paris, le budget 2027 poursuit son parcours à l'Assemblée nationale sous la menace d'une censure. Entre un bitcoin qui glisse sous les 82 000 dollars, TSMC qui bat tous ses records grâce à l'IA, et une étoile qui grignote tranquillement son compagnon depuis des centaines de milliers d'années, voici le point complet.</description>
 <pubDate>Sun, 18 Oct 2026 06:00:00 +0200</pubDate>
@@ -216,13 +223,6 @@
 <pubDate>Sat, 19 Sep 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-19.mp3" length="8800128" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-09-19</guid>
-</item>
-<item>
-<title>Briefing du 18/09/2026</title>
-<description>Un Congrès américain qui vient d'ouvrir la porte à des droits de douane de 100% contre les acheteurs de pétrole russe, et Wall Street qui a effacé en une seule séance toute la panique de la veille sur la Fed. On parle aussi d'un vrai malaise chez les patrons de l'IA, qui commencent à se demander tout haut si leurs propres produits ne sont pas en train de leur échapper un peu. Et pour finir, un diplodocus retrouvé en Espagne, la première preuve de la présence de ce genre de dinosaure hors d'Amérique du Nord.</description>
-<pubDate>Fri, 18 Sep 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-18.mp3" length="8544768" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-09-18</guid>
 </item>
 </channel>
 </rss>
