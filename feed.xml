@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 20/10/2026</title>
+<description>Ce mardi, l'Assemblée nationale s'apprête à voter solennellement la première partie du budget 2027, au lendemain d'un week-end de mobilisation sociale qui a sérieusement ébranlé les marchés français. Les banques françaises ont plongé lundi, l'OAT à dix ans a frôlé les 5 %, tandis que Wall Street profitait d'un rebond technique des semi-conducteurs. Entre un bitcoin stable autour de 82 000 dollars, une plainte antitrust inédite contre les quatre plus gros laboratoires d'IA, et un nouveau corail découvert à 4 000 mètres de profondeur dans le Pacifique, voici le point complet.</description>
+<pubDate>Tue, 20 Oct 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-10-20.mp3" length="8867136" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-10-20</guid>
+</item>
+<item>
 <title>Briefing du 19/10/2026</title>
 <description>Ce lundi, l'Assemblée nationale s'apprête à voter demain la première partie du budget 2027, pendant que Donald Trump met en pause de nouvelles sanctions contre la Russie au grand dam de Kiev. Wall Street continue de digérer une semaine nerveuse marquée par le dossier de la dette de CoreWeave, tandis que la FTC américaine s'invite à son tour dans la bataille réglementaire sur la sécurité des IA. Entre un bitcoin stable autour de 82 000 dollars, un pétrole au plus haut depuis mai, et un requin fantôme costaricien qu'on croyait disparu, voici le point complet.</description>
 <pubDate>Mon, 19 Oct 2026 06:00:00 +0200</pubDate>
@@ -216,13 +223,6 @@
 <pubDate>Sun, 20 Sep 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-20.mp3" length="9292608" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-09-20</guid>
-</item>
-<item>
-<title>Briefing du 19/09/2026</title>
-<description>Un Congrès américain qui vient d'ouvrir la porte à des droits de douane de 100% contre les acheteurs de pétrole russe, et une France dont la prime de risque grimpe à un niveau plus vu depuis quatorze ans. On parle aussi d'une intelligence artificielle qui a piraté une entreprise espagnole toute seule, sans qu'un humain n'appuie sur le moindre bouton. Et on termine avec un cratère lunaire géant que la NASA a mis plus d'un an à repérer.</description>
-<pubDate>Sat, 19 Sep 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-19.mp3" length="8800128" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-09-19</guid>
 </item>
 </channel>
 </rss>
