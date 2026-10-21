@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 21/10/2026</title>
+<description>Ce mercredi, le budget 2027 continue son parcours chaotique à l'Assemblée nationale, à deux jours de la décision clé de Moody's sur la note souveraine française. Wall Street et le CAC 40 ont terminé mardi en ordre dispersé, tandis que l'OAT à dix ans flirte avec son plus haut niveau depuis 2002. Entre un bitcoin en légère reprise, une course effrénée à l'introduction en bourse entre OpenAI et Anthropic, et un rover de la NASA qui vient de battre un record peu commun sur Mars, voici le point complet.</description>
+<pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-10-21.mp3" length="10276416" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-10-21</guid>
+</item>
+<item>
 <title>Briefing du 20/10/2026</title>
 <description>Ce mardi, l'Assemblée nationale s'apprête à voter solennellement la première partie du budget 2027, au lendemain d'un week-end de mobilisation sociale qui a sérieusement ébranlé les marchés français. Les banques françaises ont plongé lundi, l'OAT à dix ans a frôlé les 5 %, tandis que Wall Street profitait d'un rebond technique des semi-conducteurs. Entre un bitcoin stable autour de 82 000 dollars, une plainte antitrust inédite contre les quatre plus gros laboratoires d'IA, et un nouveau corail découvert à 4 000 mètres de profondeur dans le Pacifique, voici le point complet.</description>
 <pubDate>Tue, 20 Oct 2026 06:00:00 +0200</pubDate>
@@ -216,13 +223,6 @@
 <pubDate>Mon, 21 Sep 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-21.mp3" length="8919360" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-09-21</guid>
-</item>
-<item>
-<title>Briefing du 20/09/2026</title>
-<description>Donald Trump vient de signer une loi qui menace la Chine et l'Inde de droits de douane pouvant atteindre 100% sur le petrole russe, la prime de risque francaise sur les marches obligataires a franchi un seuil plus vu depuis 2012, et les patrons de cinq des plus grands laboratoires d'intelligence artificielle au monde viennent de lancer un appel commun, du jamais-vu, pour ralentir la course aux modeles les plus puissants. Voici le point complet.</description>
-<pubDate>Sun, 20 Sep 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-20.mp3" length="9292608" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-09-20</guid>
 </item>
 </channel>
 </rss>
