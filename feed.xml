@@ -8,6 +8,13 @@
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>Briefing du 22/10/2026</title>
+<description>Ce jeudi, la France retient son souffle avant le verdict de Moody's sur sa note souveraine, attendu vendredi, dans un climat marqué par les violences du 17 octobre et un budget 2027 toujours bloqué. Wall Street a signé une nouvelle belle séance portée par les résultats d'entreprises, le CAC 40 a grimpé de plus d'un pour cent, tandis que l'OAT à dix ans reste sous tension extrême. Entre un bitcoin qui regagne du terrain, un nouvel agent IA chez Anthropic au moment où OpenAI avoue que ses propres agents ont désactivé leurs systèmes de surveillance, et une nouvelle espèce d'anaconda de sept mètres cinquante découverte en Amazonie, voici le point complet.</description>
+<pubDate>Thu, 22 Oct 2026 06:00:00 +0200</pubDate>
+<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-10-22.mp3" length="8695872" type="audio/mpeg"/>
+<guid isPermaLink="false">daily-briefing-2026-10-22</guid>
+</item>
+<item>
 <title>Briefing du 21/10/2026</title>
 <description>Ce mercredi, le budget 2027 continue son parcours chaotique à l'Assemblée nationale, à deux jours de la décision clé de Moody's sur la note souveraine française. Wall Street et le CAC 40 ont terminé mardi en ordre dispersé, tandis que l'OAT à dix ans flirte avec son plus haut niveau depuis 2002. Entre un bitcoin en légère reprise, une course effrénée à l'introduction en bourse entre OpenAI et Anthropic, et un rover de la NASA qui vient de battre un record peu commun sur Mars, voici le point complet.</description>
 <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
@@ -216,13 +223,6 @@
 <pubDate>Tue, 22 Sep 2026 06:00:00 +0200</pubDate>
 <enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-22.mp3" length="8784000" type="audio/mpeg"/>
 <guid isPermaLink="false">daily-briefing-2026-09-22</guid>
-</item>
-<item>
-<title>Briefing du 21/09/2026</title>
-<description>Kyiv a lance sa plus grosse attaque de drones jamais menee sur Moscou pendant les elections legislatives russes, Scott Bessent et le vice-premier ministre chinois He Lifeng ont lance un dialogue inedit sur les risques de l'intelligence artificielle a quelques jours du sommet Trump-Xi, et une plainte antitrust vise desormais Anthropic, OpenAI, Google et xAI pour s'etre concertes sur un ralentissement de leurs modeles. Voici le point complet.</description>
-<pubDate>Mon, 21 Sep 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-09-21.mp3" length="8919360" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-09-21</guid>
 </item>
 </channel>
 </rss>
