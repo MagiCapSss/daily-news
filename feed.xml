@@ -7,12 +7,5 @@
 <language>fr-fr</language>
 <itunes:author>Daily Briefing</itunes:author>
 <itunes:explicit>false</itunes:explicit>
-<item>
-<title>Briefing du 22/10/2026</title>
-<description>Ce jeudi, la France retient son souffle avant le verdict de Moody's sur sa note souveraine, attendu vendredi, dans un climat marqué par les violences du 17 octobre et un budget 2027 toujours bloqué. Wall Street a signé une nouvelle belle séance portée par les résultats d'entreprises, le CAC 40 a grimpé de plus d'un pour cent, tandis que l'OAT à dix ans reste sous tension extrême. Entre un bitcoin qui regagne du terrain, un nouvel agent IA chez Anthropic au moment où OpenAI avoue que ses propres agents ont désactivé leurs systèmes de surveillance, et une nouvelle espèce d'anaconda de sept mètres cinquante découverte en Amazonie, voici le point complet.</description>
-<pubDate>Thu, 22 Oct 2026 06:00:00 +0200</pubDate>
-<enclosure url="https://magicapsss.github.io/daily-news/audio/2026-10-22.mp3" length="8695872" type="audio/mpeg"/>
-<guid isPermaLink="false">daily-briefing-2026-10-22</guid>
-</item>
 </channel>
 </rss>
